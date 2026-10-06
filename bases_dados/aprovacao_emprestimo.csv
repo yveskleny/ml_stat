@@ -1,0 +1,1001 @@
+Cliente,Estado,Idade,Renda_Mensal,Score_Credito,Nome_Limpo,Aprovado
+Maria Sophia Câmara,MT,38,3377.07,570,,1
+Dra. Kamilly Leão,RN,20,9544.92,399,True,0
+Rafaela Cassiano,MA,50,2454.75,491,False,0
+Maria Vitória Moraes,RJ,59,3762.15,860,True,0
+Ana Carolina Azevedo,DF,69,,862,True,1
+Henry Gabriel Vargas,MG,42,2247.85,466,True,0
+Isabella Farias,RO,45,2953.15,864,True,1
+Sra. Lorena Pacheco,RS,67,1639.97,505,True,0
+Maysa Brito,AC,46,4436.44,405,True,1
+Sr. Igor Teixeira,AL,32,10508.61,569,,0
+Erick Cavalcanti,PR,41,3074.13,637,True,1
+Theodoro Teixeira,RS,42,2107.59,314,True,0
+Sra. Gabriela Cassiano,SC,68,2386.16,771,True,1
+Sofia Rezende,MA,45,1807.72,530,True,0
+Sra. Lunna Lima,SE,41,3107.28,347,True,0
+Lucas Fogaça,MS,54,2784.8,846,True,1
+Srta. Ana Liz Nunes,SE,26,2576.67,697,True,1
+Sra. Anna Liz Sousa,MG,49,2401.18,540,True,0
+Luiza Moraes,RS,53,5209.58,954,False,1
+Maria Eduarda Moreira,PB,23,9996.68,981,False,1
+Cauê Cavalcanti,MS,45,10091.92,939,False,1
+Antonella Azevedo,GO,58,5672.98,932,False,1
+Miguel Jesus,TO,61,4153.03,524,True,1
+Gabriela Souza,MA,66,4766.7,991,True,1
+Luiz Miguel Fonseca,MS,34,6482.94,912,True,1
+Sra. Lívia Câmara,RN,19,1634.44,524,True,0
+Sra. Maria Fernanda Nunes,GO,28,4719.83,546,True,1
+Gael Pastor,AP,28,4041.78,909,True,1
+Dra. Antonella Pastor,AP,37,4338.72,763,True,1
+Yan das Neves,SP,69,8132.43,447,True,1
+Bryan Silveira,PR,48,8773.48,772,True,1
+Henry Gabriel Abreu,MS,18,8297.94,871,True,0
+Luana Sousa,PB,36,5510.68,308,True,1
+Srta. Jade Santos,MA,25,7554.25,927,True,1
+Juan Macedo,PI,46,3362.66,772,True,1
+Ian Albuquerque,AP,21,3879.9,980,True,1
+Natália Andrade,RJ,50,5695.1,434,True,1
+Dr. Carlos Eduardo Casa Grande,BA,62,2653.19,969,False,0
+Bryan da Mota,AP,45,3779.43,576,True,1
+Sr. Heitor Nunes,BA,66,4266.14,815,True,0
+Pedro Henrique da Cruz,RS,58,2811.57,817,True,1
+Enzo Gabriel Oliveira,PR,38,4897.26,999,False,1
+Caio Vieira,BA,57,3365.24,865,True,0
+Ana Sophia Câmara,RO,19,3276.7,938,True,1
+Enrico Araújo,CE,43,6436.5,338,True,1
+Dr. Pedro Miguel Correia,MA,18,,335,False,0
+Isaac Novais,RJ,51,1708.41,770,,0
+Caroline Souza,PA,39,4006.43,874,,0
+Stella da Luz,RJ,54,1652.25,353,True,0
+Elisa Cavalcante,PI,23,,304,True,0
+Maria Clara Moreira,MS,59,4611.64,955,False,1
+Srta. Amanda Silveira,PB,40,3811.93,645,,1
+Davi Lucas Costela,AL,65,11370.49,395,True,1
+Ana Beatriz Montenegro,PA,46,4408.44,746,True,1
+André Sampaio,BA,45,,996,True,0
+Maria Luiza Moreira,AP,43,6364.96,503,True,1
+Dr. Pedro Miguel das Neves,PA,22,3775.6,322,True,0
+João Pastor,SP,18,1561.69,958,True,1
+Maria Fernanda Marques,PA,49,13021.88,557,True,1
+Theodoro Casa Grande,PA,29,5623.31,990,False,1
+Aurora Silva,RN,63,2371.59,696,True,0
+Theodoro Nascimento,SE,43,1795.4,904,False,0
+Juliana da Cunha,GO,28,4241.01,800,True,1
+Isabella Farias,TO,41,2825.34,693,True,1
+Lunna Fonseca,RN,49,3360.98,395,True,0
+Emanuelly Alves,SP,47,7059.14,516,True,1
+Ana Luiza Teixeira,RO,53,3042.94,998,,0
+Anna Liz Carvalho,RS,64,3038.61,683,True,0
+Sophia Castro,MS,40,4727.08,768,,0
+Fernando Almeida,PR,48,12190.49,485,True,0
+Eloah da Mata,MS,61,6394.41,887,True,1
+Ana Júlia Costela,PB,19,2507.08,692,,0
+Nicole Fonseca,TO,39,18761.83,795,False,1
+Gael Henrique da Costa,AL,36,7099.6,369,True,1
+Davi Luiz da Costa,RR,62,10972.95,338,,0
+Milena Marques,DF,20,2005.96,660,True,1
+Srta. Carolina Cavalcante,PR,61,2845.88,416,False,0
+Bianca Lima,PR,28,3058.48,379,True,0
+Caio Pimenta,RR,58,6255.17,740,True,1
+Sr. Marcos Vinicius Rodrigues,TO,28,6275.1,558,False,0
+Isadora Rezende,PB,25,10338.7,707,True,1
+Sr. Oliver Abreu,PR,58,2542.32,839,,1
+Bárbara Mendonça,SP,46,,760,True,1
+Augusto Macedo,SC,47,,749,,1
+José Miguel Pinto,AL,64,3389.39,364,True,0
+João Gabriel Nascimento,PR,51,,988,False,0
+Sra. Helena Silveira,PR,22,1555.07,817,True,1
+Thales Fogaça,AL,36,7361.13,976,False,1
+Beatriz da Cunha,MA,57,13820.9,745,,1
+Melina Santos,AC,20,5953.77,973,True,1
+Brenda da Cunha,PE,64,4792.46,700,True,1
+Henry Farias,RN,51,8039.94,402,True,1
+Srta. Lavínia Pastor,RS,55,3801.28,746,True,1
+Sr. Asafe Santos,AC,21,4466.01,380,False,0
+Ravy Moura,MG,19,7359.93,368,False,0
+Isadora Dias,GO,33,2598.51,410,True,0
+Rafael Silveira,RJ,42,5596.34,659,True,1
+Francisco da Cruz,TO,38,2256.51,933,True,1
+Raquel Pinto,MA,29,1871.54,812,True,1
+Caleb Duarte,TO,64,6189.83,372,True,1
+Anthony Castro,AC,53,11646.77,872,True,1
+Ana Cecília Caldeira,AL,31,2439.6,938,False,0
+Matheus Sales,GO,68,3983.56,664,True,1
+Leonardo Sousa,PA,52,4538.12,573,True,1
+Dr. Renan Leão,SC,56,2304.96,338,True,0
+Valentina Silveira,SE,21,2562.2,824,True,1
+Ravi da Cunha,SP,25,5010.2,769,True,1
+Danilo Pimenta,AM,51,3146.62,991,True,1
+Bruna Pacheco,PA,23,12353.77,736,True,1
+Maria Alice da Luz,ES,26,1867.97,649,True,0
+Bruna Nascimento,RN,37,17654.57,522,False,1
+Davi Pires,RO,19,2693.1,803,True,1
+Mariah Aparecida,MA,21,7369.9,625,False,0
+Arthur Gabriel Pires,RN,31,2610.45,858,True,1
+Mariah Ribeiro,MA,67,4124.49,558,True,1
+Lorenzo Pastor,MG,18,2401.24,467,,0
+Sr. Daniel da Rocha,MA,47,1996.34,849,True,1
+Kamilly da Cunha,PA,51,3600.5,675,,0
+Maria Helena Campos,PB,25,6905.57,871,False,1
+Breno Borges,PA,31,8474.91,464,False,0
+Dra. Lorena Siqueira,RS,25,9888.81,388,True,1
+Laura Novaes,MG,50,2934.58,322,True,0
+Maysa Rodrigues,MG,56,3437.33,915,True,1
+Mariane Vasconcelos,ES,64,3131.31,747,True,1
+Lorenzo Montenegro,PE,54,7715.96,849,False,1
+Alana Vieira,PR,50,6507.95,816,False,1
+Luiz Henrique Cunha,RJ,25,3942.59,995,True,1
+Yasmin Martins,SE,53,6592.38,394,True,1
+Vitor da Conceição,AC,40,2301.61,849,True,1
+Sarah Pinto,ES,64,5029.78,509,,1
+Bruno Araújo,DF,25,11540.92,432,False,1
+Sr. Otávio Lima,MS,57,1785.65,350,True,0
+Luiz Fernando da Mata,SE,63,2024.13,912,False,0
+Allana Cassiano,SE,32,,866,True,1
+Valentina Casa Grande,RN,52,7995.23,416,True,1
+Dr. Eduardo da Mata,MT,44,3200.71,509,True,1
+Bento Guerra,MA,69,2107.28,963,True,1
+Gabriela Melo,CE,67,4975.61,961,True,1
+Stella Alves,AP,57,2143.79,929,False,0
+Bianca Ferreira,MA,36,1777.73,514,True,0
+Dr. Noah Porto,PR,57,5423.06,776,True,1
+Lucas Gabriel Borges,RO,67,4500.12,801,,1
+Helena Azevedo,BA,49,3128.04,354,False,0
+Dra. Rafaela da Conceição,PE,49,4491.08,386,False,0
+Dr. Enzo Gabriel Azevedo,RS,25,1609.88,742,True,1
+Carlos Eduardo Pacheco,BA,49,5730.8,563,True,1
+Dra. Ana Cecília Leão,RO,38,14649.62,799,,1
+Noah Teixeira,AP,36,5512.2,972,True,1
+Evelyn Moreira,AP,19,,822,True,1
+Davi Luiz Novaes,AP,51,3193.65,555,True,1
+Sra. Olívia Cavalcanti,AL,63,7552.13,892,False,1
+Dra. Nina Correia,PA,62,4373.51,820,True,1
+Emanuella Pires,RO,62,3690.68,965,True,1
+Bento Lopes,RN,55,,341,True,0
+Benjamin Novaes,PB,59,4252.36,887,True,1
+Srta. Rebeca Sampaio,PE,24,6769.83,909,True,1
+Fernando Novaes,ES,60,7394.59,857,True,1
+Mateus Siqueira,AM,53,1782.76,595,True,0
+Jade Viana,PE,41,4842.57,397,True,1
+João Pedro Brito,RJ,69,,447,True,0
+Maria Duarte,TO,19,,781,True,1
+Olívia Moreira,GO,56,,915,,0
+Dr. João Lucas Dias,AP,36,15230.68,401,True,1
+Benjamin Abreu,RN,64,7742.85,868,True,0
+Elisa Rezende,MT,33,5574.95,380,True,1
+Dra. Brenda das Neves,MA,64,,788,False,0
+Guilherme Ramos,PE,31,30875.75,385,False,1
+João Vitor Souza,RS,47,1989.95,776,True,0
+Isaque Gomes,RR,52,5637.45,825,True,1
+Thomas Pastor,SP,56,4522.35,482,True,1
+Pedro Lucas Nogueira,MS,59,3035.32,460,False,0
+Dr. Anthony Gabriel Oliveira,MG,30,3979.16,845,True,1
+Ágatha Nogueira,AM,46,26228.78,328,False,0
+Maria Júlia Siqueira,SC,42,2768.1,676,False,0
+Cauã Cassiano,MS,31,6771.13,988,True,1
+Ana Beatriz Fogaça,RJ,63,5057.7,731,True,0
+Maria Fernanda Moura,RJ,54,2031.56,486,False,0
+Samuel Moraes,MA,30,9951.77,601,,1
+Henrique Carvalho,PI,68,3553.85,874,True,1
+Sr. Levi Moraes,PE,23,2496.34,805,False,0
+Gustavo Rezende,RO,66,2475.04,820,False,0
+Bella Gomes,RR,20,7179.21,361,False,0
+Luísa Dias,AL,31,2513.47,388,True,0
+Milena da Mata,AM,26,3484.86,934,,0
+Maria Isis Nogueira,RR,51,3096.25,836,True,1
+Eloah Jesus,RJ,54,6641.02,901,,1
+Dr. Diego Souza,PI,46,9120.79,339,False,0
+Esther Mendes,BA,62,5840.16,339,True,1
+Dr. Leandro Correia,BA,58,2625.66,870,False,0
+Maria Isis Peixoto,SC,55,12142.21,655,True,1
+Ágatha da Rocha,RR,27,4005.47,330,False,0
+Daniel Lopes,PE,31,11074.48,381,False,1
+Dra. Letícia Freitas,SC,34,1851.38,966,False,0
+Bruna Sá,CE,23,1536.46,664,,0
+Pedro Lucas da Cunha,MS,47,3764.23,711,True,1
+Mateus da Cunha,PE,34,7393.59,623,True,1
+Sabrina da Cunha,RR,67,1738.66,419,True,0
+Sra. Nina Machado,PA,29,,526,True,0
+Catarina Carvalho,AL,43,4182.75,758,True,1
+Nathan Barros,BA,46,1931.2,788,,1
+Miguel Machado,PA,20,6063.98,321,True,1
+Ana Júlia Melo,PA,22,13002.27,383,True,1
+Vinicius Melo,AL,42,2545.22,462,True,0
+Luana Pinto,PB,63,4051.1,838,,0
+João Vitor Garcia,AC,69,,326,False,0
+Gael Leão,MG,20,2893.51,835,False,0
+Ana Laura Campos,PE,61,1504.93,754,True,1
+Valentina Cirino,RO,41,2201.35,800,True,1
+Eduarda Albuquerque,SC,64,3998.95,619,True,1
+Sra. Melissa Gomes,ES,28,9367.95,401,,0
+Augusto Nogueira,PI,33,2608.53,345,True,0
+Sr. Augusto Pires,AM,19,3198.69,541,,1
+Olivia Caldeira,SP,19,8460.79,965,True,1
+Juan Nogueira,AP,66,8391.34,405,True,1
+Vitor Hugo Garcia,RJ,49,5113.27,372,True,1
+Bruna Castro,RO,24,5426.57,383,True,1
+Matteo Martins,SP,59,7626.81,814,True,1
+Rodrigo Ribeiro,MG,36,5702.65,836,False,1
+Maria Luísa da Mata,MG,61,7736.85,994,True,1
+Vinícius Cavalcanti,SC,27,23934.52,358,True,1
+Sra. Emanuelly Siqueira,SC,38,2410.51,631,True,1
+Ana Cecília Costela,RO,41,3198.19,663,False,0
+Enzo Gabriel Montenegro,PB,53,5047.49,549,True,1
+Isaac Pereira,SE,29,2796.43,670,True,1
+Raquel Viana,RS,47,2575.66,819,True,1
+Dr. Miguel Lima,PR,64,2298.57,852,True,1
+Caroline Rios,GO,45,1900.44,444,True,0
+Joana Teixeira,MA,53,3073.3,723,True,1
+Ana Clara Lopes,AP,46,1805.35,569,True,0
+Lucas Gabriel Mendes,AP,29,3754.71,575,True,1
+Isaque Marques,MG,54,1649.44,986,True,1
+Arthur Miguel Silveira,MA,37,,919,True,1
+Gabriel da Rosa,AM,23,12533.52,300,,1
+Dr. Otto Fogaça,PI,67,,311,True,1
+Marina Novais,MS,64,5576.84,484,True,1
+Dr. Igor Pinto,PI,33,2037.52,937,True,1
+Ester Almeida,PE,22,2334.74,968,True,1
+Davi Luiz Correia,RS,67,16883.31,726,True,1
+Anna Liz da Cunha,ES,50,7353.04,644,True,1
+Sra. Manuela Castro,MG,45,5898.11,660,True,1
+Luiz Felipe Martins,ES,26,9552.78,388,False,0
+Nina Moreira,MT,63,1962.14,909,True,1
+Melina Nunes,RJ,28,9911.37,578,True,1
+Samuel Silva,MA,24,3092.26,364,True,0
+Sr. Raul Oliveira,AM,66,,716,True,1
+Sra. Bárbara Albuquerque,RO,25,2237.83,302,True,0
+Eloah Mendes,SP,22,1603.91,453,True,0
+Sr. Davi Miguel Aragão,RR,23,4550.87,342,False,0
+Vitor Montenegro,PB,33,4446.17,320,True,0
+Theo da Conceição,PR,38,2616.12,350,True,0
+Esther Aragão,AL,44,2227.68,672,True,1
+Rafaela Sales,MA,66,1875.6,969,True,1
+Srta. Lara Barbosa,SP,30,2026.01,407,True,0
+Pedro Miguel Porto,PA,53,7808.02,744,True,1
+Lucas Teixeira,MS,30,3370.49,984,True,1
+Benicio Sales,MS,41,2535.5,820,True,1
+Esther Aparecida,BA,21,3244.24,453,True,0
+Isabella Abreu,RJ,36,3704.77,501,False,0
+Dom Andrade,MG,61,5033.44,986,,1
+Stella Barbosa,PA,24,1595.69,954,True,1
+Ana Rios,MT,52,5110.3,553,True,1
+Isaac Abreu,SE,63,3860.85,758,False,0
+Clarice Costela,AL,53,4954.67,466,False,0
+Ana Lívia Gomes,PA,23,,947,True,1
+Nathan Rodrigues,RJ,49,1780.03,816,True,1
+Sra. Manuela Sales,AL,39,4545.34,680,True,1
+Raul Nogueira,SE,69,4763.82,653,True,0
+Breno Brito,DF,33,2270.96,586,False,0
+Caroline Teixeira,RJ,29,8399.54,311,True,1
+Davi Luiz Vasconcelos,BA,22,2010.56,926,True,1
+Erick Barbosa,RR,35,5953.59,383,True,1
+Ravi Souza,PA,31,4327.67,799,True,1
+Sarah Garcia,CE,69,3418.02,748,True,1
+Diogo Rios,TO,39,2205.82,705,True,1
+Arthur Gabriel Aparecida,CE,52,3524.54,977,False,0
+Sara Barros,AM,69,6612.23,366,False,0
+Ian Cirino,AC,31,1592.64,429,True,0
+Dr. Davi Luiz Pires,AM,53,8414.7,552,False,0
+Anthony Gabriel da Luz,DF,20,10641.4,537,True,1
+Dr. Marcelo Vargas,MT,62,2019.35,836,True,1
+Ana Lívia Castro,SE,23,,831,True,0
+Ayla Alves,RN,36,3315.25,586,True,1
+Anthony Gabriel da Costa,RJ,40,7113.82,355,True,1
+Ana Luiza Montenegro,RS,50,2945.46,562,True,1
+Sr. Pietro Ramos,AM,55,5320.33,520,True,1
+Letícia Correia,AC,45,3889.78,782,True,1
+Ravi Lucca Aparecida,MA,44,14777.25,482,True,1
+Liam Carvalho,PE,30,6069.94,722,True,0
+Gustavo Henrique Pinto,AM,34,7968.61,472,True,1
+Enzo Gabriel Peixoto,RJ,21,8940.76,482,True,1
+Maria Mendonça,GO,59,8157.39,735,False,1
+Pietro Almeida,RJ,19,7684.04,692,False,1
+Oliver da Costa,SP,28,1656.74,531,True,0
+Maria Luiza Nogueira,SE,40,3892.25,378,False,0
+Sra. Cecilia Nascimento,MA,25,6849.01,748,True,0
+Benicio da Cunha,RJ,34,1799.26,707,True,1
+Raquel Jesus,SC,36,2906.95,950,False,0
+Otto Freitas,SC,49,,560,True,0
+Olivia Borges,PR,48,1844.92,667,False,0
+Sra. Ana Clara Monteiro,PA,66,16417.28,762,,1
+Melina Abreu,RO,67,14358.19,418,True,1
+Luiz Otávio Albuquerque,CE,33,1983.96,992,False,0
+Guilherme Andrade,AP,26,2048.3,572,False,0
+Henry Gabriel Pinto,AP,47,3815.03,925,False,0
+Otávio da Mata,CE,52,4241.1,412,True,1
+Ryan Leão,DF,38,2695.95,829,True,1
+Theodoro Gonçalves,PB,39,2296.71,502,True,0
+Srta. Yasmin Câmara,PE,38,1676.53,765,True,1
+Sr. Luiz Fernando Nunes,SE,39,4319.69,387,True,1
+Natália Melo,SP,47,2912.72,318,True,0
+Vitor Viana,MA,33,7227.2,410,True,1
+Asafe Câmara,AP,59,2802.38,782,True,1
+Théo Pires,GO,30,8252.16,365,True,1
+Rafael Pimenta,PE,31,8829.43,311,True,1
+Felipe Vieira,TO,54,7146.69,369,False,0
+Gabriela Silveira,RS,43,5624.17,835,True,1
+Lucas da Mota,BA,62,1512.89,337,True,0
+Dra. Lívia Freitas,PE,54,4123.2,825,True,1
+Benicio Pimenta,RR,36,5200.19,461,True,1
+Marina Gomes,AM,29,1820.76,705,True,1
+Benjamim Rocha,RS,47,4413.18,731,,1
+Emilly da Mata,TO,28,2496.98,775,True,1
+Caroline Aragão,RJ,44,5559.51,959,False,1
+Pietro Sales,GO,69,6888.09,901,,1
+Sr. Pietro Cavalcante,CE,23,1597.96,553,True,0
+Fernando Fernandes,PI,43,12799.18,725,False,1
+Lucas Gabriel Casa Grande,PR,53,7990.97,373,,0
+Benício Cardoso,RR,53,6706.92,940,False,1
+Zoe Pereira,MA,42,2081.74,842,,0
+Arthur Gabriel Freitas,DF,24,1734.99,713,True,1
+Maria Isis Garcia,DF,42,2769.54,481,,0
+Allana Freitas,RR,35,4174.37,995,True,1
+Gael Henrique Costela,AP,32,3617.97,818,True,0
+Raul da Rocha,RN,43,4785.45,498,True,1
+Srta. Ana Carolina Moraes,RR,40,17416.3,381,True,1
+Dra. Milena Novaes,SE,58,15802.96,683,False,0
+Sra. Lorena da Cunha,BA,34,1872.15,897,True,1
+Davi Lucas Rezende,GO,34,4628.31,722,True,1
+Caio Pereira,RS,65,3738.88,816,,0
+Brenda Andrade,RR,39,9421.63,734,,1
+Benicio Pires,CE,66,3260.06,910,True,1
+Maria Clara Moura,AP,57,3103.19,513,True,1
+Danilo Jesus,MA,43,2591.42,979,False,0
+Marcelo Freitas,RJ,69,1895.53,343,True,0
+Lorenzo Montenegro,PR,36,3903.71,678,True,1
+Dr. Vitor Nascimento,MT,53,1895.02,807,False,0
+Sophie Barbosa,RR,59,5616.43,537,True,1
+Juliana Duarte,RR,60,5302.22,558,False,0
+Marcelo Caldeira,PA,65,2402.67,819,False,0
+Marina Cirino,RO,28,5321.15,843,True,1
+Arthur Miguel da Mata,PI,51,18068.34,832,True,1
+José Pedro Montenegro,MT,21,2208.06,836,,1
+Breno Albuquerque,MS,69,6759.57,775,False,1
+Bella Nascimento,RN,61,19213.31,749,False,1
+Davi Luiz Rodrigues,PB,43,9975.12,576,True,1
+Raul Alves,AP,40,3210.48,637,True,1
+Maria Julia da Rosa,MT,33,4049.24,588,,1
+Ísis Ramos,PI,18,6078.66,753,False,0
+Luiz Fernando Almeida,SP,64,5618.76,815,False,0
+Liam Campos,RR,69,1635.01,928,True,1
+Melina Pacheco,SE,50,,506,True,1
+Dr. Ravi Mendonça,MS,53,3475.61,857,True,1
+Dr. Breno Pereira,DF,42,,806,True,1
+Srta. Caroline Aragão,GO,20,2045.36,382,False,0
+Bryan Teixeira,PE,26,1572.68,626,True,0
+Luiz Fernando Santos,RN,53,2822.48,697,,0
+Miguel Montenegro,TO,52,4030.23,388,False,0
+Dra. Caroline Vargas,AM,19,5153.26,367,False,0
+Srta. Maria Sophia da Rosa,BA,33,10413.72,426,,1
+Maria Sophia Farias,SC,38,4996.82,875,,0
+Calebe Ferreira,DF,26,8620.28,983,True,1
+João Lucas Leão,PA,40,9947.16,364,True,1
+Henry Souza,PB,46,7446.75,958,False,1
+Dra. Isabel Garcia,RJ,24,7719.84,478,True,1
+Nicolas Lima,PE,51,15629.72,791,False,1
+Alexia Pimenta,CE,34,3590.05,513,True,0
+Sr. Augusto da Luz,MA,46,2591.73,661,False,0
+Vitor Fogaça,AP,66,,731,,1
+Maria Eduarda Martins,PE,50,2489.07,854,False,0
+Matteo da Mata,MS,58,4894.98,617,True,1
+Dra. Maria Luiza Duarte,DF,58,1983.42,870,,0
+Francisco Gonçalves,TO,18,3895.69,426,True,1
+Manuella Andrade,ES,65,5946.1,408,True,1
+Caleb Castro,AM,40,6611.82,452,,1
+Raquel Novais,AC,47,9710.35,957,,1
+Joana Vieira,MT,29,5128.55,383,False,0
+Joana Pimenta,RR,68,,404,True,1
+Vitor Pinto,SC,20,11280.6,676,True,1
+Luiz Gustavo Freitas,PR,34,1775.02,649,True,1
+Maria Sophia Andrade,ES,66,1852.67,656,True,1
+Matteo Andrade,MA,35,1779.05,576,,0
+Paulo Moura,RN,61,4628.21,933,True,1
+Ana Vitória Leão,MG,28,11438.12,362,True,1
+Sophia da Mota,GO,45,6391.07,978,True,1
+Diogo Fonseca,PE,27,3197.84,447,True,0
+Maysa da Mata,AP,28,3165.73,778,False,0
+Josué Vieira,ES,29,5223.38,987,True,1
+Dra. Eduarda Casa Grande,RJ,20,15805.81,675,,1
+Dr. Henry da Luz,RS,68,1625.78,747,True,0
+Eloá Andrade,AL,54,2865.71,784,False,0
+Breno Gonçalves,ES,30,10271.47,500,,1
+Luísa Azevedo,AC,54,15626.43,577,True,1
+Maria Clara Lopes,AP,59,2634.27,642,True,1
+Ester Caldeira,PE,61,4332.61,682,True,1
+Sra. Luara Nunes,AP,64,4998.53,936,True,1
+Augusto Lima,AP,41,6805.74,403,True,1
+Isabella Macedo,ES,36,1661.04,956,True,1
+Oliver Novaes,PR,38,3244.49,858,False,0
+Jade Mendonça,PB,63,,483,True,0
+Theo Nogueira,SC,61,13412.52,965,False,1
+Anna Liz Farias,DF,41,4204.52,886,True,1
+Lunna Sampaio,AP,31,3299.35,764,False,0
+Bruna Casa Grande,CE,26,,664,True,0
+Olívia Carvalho,MS,20,2917.77,446,True,0
+Maitê Macedo,AM,67,5440.34,586,True,1
+Aurora Fonseca,RN,33,6217.54,619,True,1
+Dr. Kevin Casa Grande,AC,67,4508.01,602,False,0
+Srta. Melissa da Cruz,PB,53,2896.07,946,True,1
+Clara Vasconcelos,SC,18,7100.4,487,,1
+Emanuelly Carvalho,AP,48,4174.82,683,,0
+Luna Vieira,AP,62,8105.94,984,True,1
+Nathan Farias,RS,33,1819.91,674,False,0
+Caroline Mendes,GO,51,6453.02,483,True,1
+Maya Rios,PR,56,3577.47,326,True,0
+Carolina Machado,DF,36,5591.9,736,True,1
+Maria Flor da Luz,GO,27,10280.63,322,False,0
+Isabel Rocha,MG,67,1797.93,459,True,0
+Vitória Araújo,SE,21,8017.72,321,True,1
+Dra. Mariana Silva,AM,51,4246.24,589,True,1
+Diego Moura,BA,43,1933.68,540,True,0
+Srta. Catarina Novais,AL,58,10542.96,387,,1
+Davi Lucca Porto,MS,36,12188.07,932,True,1
+Apollo Macedo,AM,23,11009.23,440,,1
+Luara Mendes,PA,44,6146.45,517,True,1
+Dra. Amanda Nunes,RN,50,2673.36,534,True,1
+Sr. Calebe Ferreira,AL,36,,832,True,1
+Vinicius Melo,PB,52,14067.64,839,False,1
+Alexandre Nascimento,PR,35,3346.96,754,False,0
+Luara Brito,PE,28,6586.92,948,True,1
+Benjamim Borges,RO,25,7110.07,461,True,1
+Sr. Pedro Siqueira,RO,18,5640.66,448,True,1
+Sofia da Luz,MG,61,1739.39,417,False,0
+Luan Martins,AM,39,2607.7,401,True,0
+Thales Santos,PB,34,1627.7,686,True,1
+Sra. Maria Clara Ribeiro,SP,55,9903.38,677,True,1
+Rodrigo Aparecida,SC,44,2492.85,903,,0
+João Lucas Cassiano,PE,24,3428.83,973,True,0
+Aylla Cavalcanti,AP,33,4418.92,937,True,1
+Heloísa Farias,RS,25,9010.86,756,True,1
+Alana das Neves,SP,46,3530.03,943,False,0
+Lucas Gabriel Ramos,RJ,61,,378,True,0
+Matteo Moreira,AC,37,12939.52,944,,1
+Guilherme Novais,MA,24,3320.81,870,True,1
+Gael Santos,AL,25,4953.83,566,False,0
+Manuella Silveira,TO,64,5985.03,790,False,0
+Maria Vitória Alves,SC,63,4039.42,858,,0
+Mathias Fonseca,RS,50,5486.99,758,True,1
+Léo Borges,RR,23,4277.42,576,False,0
+Maria Clara da Luz,MG,47,3962.26,601,True,1
+Lucas Gabriel Casa Grande,MT,65,10618.39,919,False,1
+Luana Camargo,RN,52,5804.83,980,True,1
+Eloah Vargas,AM,42,4457.1,631,True,1
+Rebeca Almeida,RJ,68,1552.46,689,True,1
+Hadassa Carvalho,BA,25,3511.47,749,False,0
+Renan Viana,PA,60,6568.09,794,True,1
+Heloisa da Conceição,PB,54,7407.1,385,True,0
+Gustavo Rocha,RR,59,2538.59,470,True,0
+Renan Silveira,RO,44,6720.5,902,True,0
+Nina da Cunha,RJ,44,2004.53,564,True,0
+Sra. Manuela Mendonça,PI,37,,626,,0
+Sr. Leandro Farias,AM,69,3850.58,316,False,0
+Ana Luiza Rodrigues,ES,43,3648.71,413,,0
+Lucca Rezende,MA,18,4320.54,340,True,0
+Francisco Machado,MS,28,2827.81,879,True,1
+Luiz Otávio Rodrigues,RR,64,8821.83,408,True,1
+Vitor Gabriel Moura,RR,69,7260.61,383,True,1
+Pietra Mendes,MT,44,5103.66,857,True,0
+Srta. Melissa Duarte,AM,53,3606.55,579,False,0
+Rebeca Sampaio,RR,40,,589,False,0
+Arthur Garcia,PB,58,12195.17,553,True,0
+Sr. Marcelo Rodrigues,TO,56,1724.73,949,True,1
+Gael Peixoto,RO,53,1505.9,337,True,0
+Maria Abreu,SC,54,3697.08,605,False,0
+João Marques,PA,64,2301.68,681,True,1
+José Correia,RO,33,3498.19,960,True,0
+Isabella Aparecida,RS,28,2232.43,553,True,0
+Sr. André Ribeiro,RJ,42,3295.85,859,True,1
+Sara Casa Grande,SP,58,6430.72,862,True,1
+Maya Porto,RR,40,1913.61,497,False,0
+Luana Moraes,AC,46,3190.06,717,False,0
+Ester Guerra,SC,66,5876.24,544,False,0
+Hellena Alves,RN,43,13256.7,364,True,1
+Vinícius Melo,PR,57,3440.34,342,False,0
+Dr. Daniel Oliveira,PE,23,8913.13,614,,1
+Leonardo Gonçalves,RJ,57,4311.14,582,True,1
+Théo Montenegro,BA,37,3520.39,854,False,0
+Isaac Moreira,MT,54,,321,True,0
+Amanda Novaes,MA,36,12451.8,925,False,1
+Enzo Gabriel Pinto,MT,28,2327.68,311,True,0
+Maria Helena Rios,CE,31,12433.13,816,True,1
+Antônio Brito,AC,22,1850.6,788,True,0
+Daniela Siqueira,PA,32,17580.56,383,True,1
+Sophie Brito,ES,35,5176.21,703,,1
+Srta. Stella Nogueira,CE,23,3892.2,501,True,1
+Leandro da Rosa,CE,44,,767,True,1
+Yan Oliveira,MA,41,4409.22,507,True,1
+Maya Costa,PB,37,1820.42,968,,0
+Maria Vitória Oliveira,MG,19,,895,True,1
+Maria Eduarda Silva,MS,65,2655.49,372,True,0
+Luan Guerra,SC,18,2648.19,557,False,0
+Theodoro Novaes,BA,65,5289.66,614,True,0
+Diego Araújo,AL,62,3370.78,583,True,1
+Bruna Pereira,RJ,63,14140.64,719,True,1
+Maria Flor da Luz,SP,67,1929.86,669,True,0
+João Miguel Cavalcante,RS,26,3776.79,570,False,0
+Luísa Moraes,RO,59,2541.16,342,True,0
+Mariana da Rosa,PR,69,5745.2,450,True,0
+Theodoro da Rocha,MS,67,2763.26,595,True,1
+Sr. Bruno Melo,PR,35,1838.53,603,True,0
+Davi Lucca Cassiano,RJ,20,12295.0,888,False,1
+Dr. Léo Borges,PA,34,4447.97,990,False,1
+Arthur da Mata,RR,35,2752.57,993,False,0
+Valentina Gonçalves,RJ,55,5479.68,662,True,1
+Gustavo Cirino,SC,39,12513.07,391,True,1
+Sr. Pedro Lucas das Neves,AL,41,5068.66,434,True,1
+Ísis Garcia,DF,55,3608.3,420,True,0
+Davi Lucca Vasconcelos,BA,20,7676.89,320,,1
+Lucca Sá,RR,44,2865.39,495,False,0
+Paulo da Cruz,DF,41,3265.73,618,True,1
+Ana Lívia da Paz,MA,66,13714.72,847,True,1
+João Guilherme Sampaio,RN,62,1932.87,436,True,0
+Daniela Abreu,CE,29,9330.79,725,False,1
+Anthony Gabriel Fernandes,MT,40,5272.05,584,True,1
+Dra. Ana Abreu,SP,38,2000.22,700,True,1
+Marcelo Carvalho,RJ,60,2203.91,588,True,1
+Maria Laura Fonseca,MS,26,5527.48,414,True,1
+Ravi Carvalho,PE,32,2617.42,426,True,0
+Lucas Gabriel Souza,MA,50,18645.9,436,True,1
+Leonardo Silveira,RJ,18,2253.49,653,,1
+Zoe Pereira,ES,41,5221.94,616,True,1
+João Guilherme Moraes,SC,56,10540.97,306,,0
+Apollo Teixeira,RN,20,7795.47,836,True,1
+Nathan Melo,MT,26,2668.22,324,True,0
+Dr. João Gabriel Rezende,AL,61,8390.17,635,True,1
+Kevin da Rosa,MT,28,2310.63,728,True,0
+Kamilly Campos,MT,25,10781.94,859,True,1
+Aurora Jesus,RN,62,15276.31,415,True,1
+Maria Flor Macedo,RN,46,2553.51,520,,0
+Rebeca Moreira,CE,21,6726.01,339,True,1
+Maysa Jesus,CE,66,6434.51,713,,1
+Sr. Bryan Martins,PR,25,1937.82,347,True,0
+Daniela Costela,ES,34,4444.83,779,True,0
+Dr. Isaque Fogaça,MS,45,3455.08,391,True,0
+João Felipe Fogaça,RS,59,2694.87,875,False,0
+Lucca Campos,GO,28,2180.67,981,True,1
+Manuela Siqueira,SE,29,2605.65,685,True,1
+Sra. Heloísa Cavalcanti,PI,43,5014.71,477,True,1
+Pedro Miguel Mendonça,MG,55,4688.19,804,True,1
+Srta. Gabrielly Pinto,ES,44,8492.91,677,True,1
+Otto Cavalcanti,DF,23,8248.29,687,True,1
+Srta. Luna da Costa,SE,39,2152.94,691,True,0
+Luiz Gustavo Novaes,PB,65,4759.79,419,False,0
+Danilo Mendonça,CE,55,10261.25,754,False,0
+Thomas Brito,AC,37,6408.12,849,True,1
+Sra. Bárbara Ramos,PE,52,5986.61,750,False,0
+Arthur Miguel da Costa,DF,68,,758,,1
+Sr. Apollo Silva,RO,31,2997.01,897,True,1
+Antonella Marques,PI,20,2069.23,534,True,0
+Ravi Cunha,PI,46,5036.62,836,True,1
+Clara Casa Grande,DF,40,3472.14,575,True,1
+Sra. Nina Nogueira,PR,38,4500.37,614,True,1
+João Vitor Camargo,ES,28,6522.47,313,True,1
+Francisco Aparecida,SE,22,,374,True,0
+Juan Pires,PE,36,16136.92,481,True,1
+Ana Clara Costela,RO,64,2413.46,705,,1
+Dra. Isabela Gomes,SE,32,6125.75,674,True,1
+Ryan Rezende,SC,30,4570.92,483,False,0
+Caio Macedo,PA,25,2797.45,737,True,0
+Kamilly Viana,AC,33,1775.38,939,True,1
+Luara Lopes,BA,41,16450.09,454,True,1
+Catarina Gomes,RO,25,2474.54,764,True,1
+Ravi Costa,PB,66,3207.82,608,False,0
+Sr. Otávio Caldeira,RS,67,2961.43,793,True,1
+Breno Aparecida,PB,37,1727.22,863,True,1
+Júlia Brito,PI,28,3817.42,355,True,0
+Samuel Nogueira,PR,45,2558.5,359,False,0
+Felipe Vasconcelos,TO,21,1758.43,400,True,0
+Fernando Oliveira,PI,19,9499.83,675,True,1
+Marcos Vinicius Porto,PR,57,2178.32,491,True,0
+Sara Teixeira,PA,18,1512.58,745,False,0
+Ana Vitória Fernandes,RJ,51,8412.46,405,True,1
+Maria Silveira,RN,32,5901.0,698,True,1
+José Miguel Macedo,BA,38,10311.66,959,True,1
+Bella Vasconcelos,PA,52,4140.25,510,True,1
+Levi Azevedo,MS,30,3652.41,523,True,1
+João Vitor Pinto,RN,48,6830.86,487,True,1
+Cecilia Fernandes,AM,55,6913.03,486,True,1
+Luiz Felipe Cunha,RS,55,4199.38,705,True,1
+Rafael Pimenta,RN,29,3377.12,910,False,0
+Sr. Matteo Ferreira,RN,58,7857.1,607,True,1
+Sra. Laís Carvalho,CE,59,5056.0,687,True,1
+Josué Almeida,TO,30,2159.73,780,True,0
+Ana Cecília Pimenta,GO,43,1663.53,985,,1
+João Pedro Leão,AM,35,7422.71,571,True,1
+Anthony Peixoto,GO,30,3385.17,537,False,0
+Dr. Caio Peixoto,RR,26,1686.07,766,True,1
+Sophie Freitas,RO,26,5437.45,716,False,0
+Srta. Maria Laura Machado,RS,49,,397,True,0
+Maria Sophia Mendonça,MT,29,1973.3,371,False,0
+Sr. Daniel Fogaça,AL,48,3490.94,438,True,0
+Maria Sophia Machado,ES,23,6025.28,723,False,0
+Benício da Paz,PI,58,7036.0,798,True,1
+Heloísa da Costa,PA,36,3115.1,749,True,1
+Valentim Porto,AC,54,2354.31,327,False,0
+Yan da Conceição,PE,30,2799.96,598,True,0
+Breno Gonçalves,RR,52,5398.75,793,False,0
+Yan Rios,MT,50,9076.08,509,False,1
+Léo Martins,ES,64,12059.54,791,True,1
+Caio Martins,PR,20,15277.64,836,False,1
+Caleb Aragão,AP,20,7064.06,659,True,1
+Isis Campos,SE,61,7633.73,462,True,1
+Brenda Nunes,PI,65,10536.68,770,True,1
+Aylla Viana,SP,37,2316.47,677,True,1
+Otto Vargas,SE,63,4532.49,593,True,1
+Benjamin Moura,TO,65,1995.83,369,,0
+Danilo Mendes,SP,39,4983.52,960,False,1
+Ian Monteiro,MS,28,4789.2,479,True,1
+Kaique Castro,PE,55,3994.35,355,,0
+Bianca Alves,GO,68,5113.97,748,,1
+Sra. Maria Vitória Garcia,MG,45,2257.5,744,True,1
+Cecilia das Neves,SC,48,3757.14,794,True,0
+Cecilia Brito,CE,59,2527.43,410,True,0
+Dr. Lucca Pereira,TO,33,8374.69,977,False,1
+Maria Laura Martins,SC,65,2438.13,956,False,0
+Dra. Kamilly Cavalcanti,BA,32,2500.2,538,True,0
+Heloisa Vargas,PI,23,,544,True,1
+Gustavo Henrique Freitas,GO,23,5182.02,304,True,1
+Cecilia Fonseca,CE,24,4803.87,825,,0
+Luna Albuquerque,MT,52,5295.21,790,True,0
+Jade Moreira,RJ,41,3564.74,731,True,1
+Ágatha Borges,BA,31,1947.64,463,True,0
+Dra. Emilly da Cunha,MS,33,,486,True,0
+Eduarda Costa,RN,20,2236.67,536,True,0
+Sophie Melo,RJ,19,6759.41,500,True,1
+Léo Moreira,PE,47,5535.98,612,True,1
+Ana da Luz,MS,62,,871,True,1
+Mirella Araújo,AP,40,2582.75,919,True,1
+Olívia Nascimento,SP,37,4671.62,756,True,1
+Sr. Davi Lucca Barros,PB,21,8552.41,700,True,1
+Dr. Isaque da Cruz,AP,37,8368.69,590,False,1
+Dr. Luiz Fernando Garcia,PI,40,7559.95,692,True,1
+Gabrielly Aragão,ES,22,2383.06,382,False,0
+Lunna da Rosa,AM,64,3659.6,536,,1
+Anthony Gonçalves,MG,42,3497.59,674,False,0
+Melina Siqueira,DF,38,2211.82,398,True,0
+Gabrielly Dias,PI,19,2082.23,747,,1
+Ana Lívia da Luz,MS,52,,540,True,0
+Ana Luiza Garcia,AM,64,1545.47,663,True,0
+Gabriela Freitas,AP,44,16068.05,941,True,1
+Bárbara Vieira,AC,29,3378.24,874,True,1
+Dra. Beatriz Sampaio,BA,33,3028.29,819,,0
+Gael Santos,RS,33,5438.89,912,True,1
+Caleb Machado,SE,64,7193.28,494,True,1
+Murilo Fonseca,AC,46,8047.9,326,False,0
+Anthony Cavalcanti,PA,22,3291.87,523,True,1
+Ryan Nunes,SC,46,7995.19,726,True,1
+Arthur Casa Grande,TO,64,2020.94,849,True,1
+Laura Nunes,SP,28,1946.37,816,True,1
+Ana Laura Novaes,MT,24,1838.88,948,True,1
+Sra. Isadora da Cruz,SP,48,7236.49,488,True,1
+José Miguel Ribeiro,DF,49,3730.88,615,True,1
+Lara Siqueira,TO,38,,428,True,1
+Ana Julia Câmara,SP,49,1663.87,524,True,0
+Manuella Farias,SP,21,7298.87,685,True,1
+Ryan Guerra,AL,20,5981.46,792,True,1
+Maria Julia Lima,GO,37,6089.52,615,True,1
+Anna Liz Monteiro,PI,64,6215.23,660,True,0
+Luísa Lopes,PE,33,9073.74,662,True,1
+Igor Câmara,AL,27,3113.7,887,,0
+Ian Campos,MA,53,5491.91,620,True,1
+Luiz Gustavo Melo,TO,54,14944.38,584,False,1
+Ana Beatriz da Rosa,MA,51,1787.68,957,True,1
+Sabrina Cirino,CE,33,6517.12,719,True,1
+Helena Guerra,TO,20,8769.07,447,False,0
+Isis Viana,PB,68,,751,True,1
+João Pedro Lopes,PB,24,3063.47,898,True,1
+Maitê Porto,TO,62,3969.71,855,True,1
+Miguel Nunes,SE,48,2919.75,342,True,0
+Bruna da Costa,DF,57,2141.7,489,True,0
+Bruna Viana,SP,48,10662.15,625,False,1
+Dr. Yuri Abreu,AC,61,2599.32,546,True,0
+Benício Moreira,PB,52,3848.69,353,False,0
+Srta. Esther Gomes,AP,34,3042.81,736,True,1
+Lucas Cardoso,AL,52,6245.24,972,True,1
+Apollo Rodrigues,AL,36,2686.86,978,False,0
+Helena Cirino,RJ,45,2326.33,487,False,0
+Luiza Camargo,MG,25,9087.4,510,True,1
+Maria Julia da Conceição,MG,36,5023.34,436,True,1
+Dr. Bruno Gonçalves,AM,28,1776.09,965,True,0
+Hadassa Barbosa,RS,18,2663.08,668,True,1
+Dr. Luan Brito,MT,21,10463.52,562,True,1
+Sr. Liam Cavalcanti,PA,41,3276.54,928,True,1
+Vitor Hugo da Cunha,BA,28,2943.98,415,True,0
+Dra. Ana Liz da Rocha,PR,40,2968.28,647,False,0
+Luigi Santos,GO,46,4967.44,612,True,1
+Dante Araújo,PR,63,5792.97,572,,1
+Kaique Araújo,RS,64,10091.69,657,True,1
+Joaquim Mendonça,MS,39,3930.69,516,False,0
+Lunna Silva,BA,67,2296.33,740,True,1
+Levi da Conceição,RR,60,3488.63,815,,1
+Dr. Luigi Silveira,PE,41,3308.0,488,,1
+Anna Liz Vasconcelos,MA,46,4837.47,676,True,1
+Thomas Macedo,SP,63,5122.19,828,True,1
+Sara Ribeiro,RN,29,1834.34,502,False,0
+Aurora Mendonça,SC,43,2797.77,754,True,1
+João Felipe Montenegro,PE,35,1664.48,897,True,1
+Ana Beatriz Rodrigues,BA,47,,528,False,0
+Rhavi Nogueira,SP,32,,840,,1
+Enzo Cavalcante,SE,61,2043.72,434,False,0
+Alícia Borges,RO,21,8716.28,906,False,1
+Arthur Gabriel Duarte,MA,23,1782.16,749,False,0
+João Nogueira,RO,56,1558.7,443,False,0
+Davi Sousa,MG,39,5430.26,564,True,0
+Manuela Nascimento,AM,32,,629,True,1
+Liam Lima,AL,23,6923.74,328,True,1
+João Miguel Campos,PR,37,,819,,1
+Maria Júlia Rocha,RJ,65,4723.39,315,True,0
+Eduarda da Rocha,BA,55,1982.08,626,True,1
+Agatha Marques,MG,63,3900.04,565,False,0
+Marcos Vinicius Vieira,SE,43,12553.9,644,True,1
+Vitória Costela,TO,60,,433,True,0
+Matheus Souza,AM,45,1882.26,957,True,1
+Beatriz Sousa,ES,21,3647.6,767,True,1
+Otávio Sales,ES,62,5158.77,731,True,1
+Larissa Pimenta,MG,62,7888.34,365,,1
+Esther Martins,RN,52,2817.36,738,False,0
+Srta. Julia Novais,PB,58,14540.44,856,True,1
+Pedro Lucas Vargas,RN,45,1567.27,574,True,0
+Sr. Théo Barros,MS,66,8649.76,991,False,1
+Luiz Fernando Pires,PA,40,,593,True,1
+Gael Fogaça,ES,61,7359.97,984,True,1
+Sr. Enzo Gabriel Silveira,PA,40,2045.89,788,True,1
+Luna da Mata,PA,40,5056.84,888,True,1
+Hellena Ribeiro,PB,64,3013.41,765,True,0
+Mathias Aparecida,CE,62,4819.47,945,True,1
+Maria Cecília Albuquerque,PE,54,2059.37,476,,0
+Pietra da Paz,PI,58,6236.91,836,True,1
+Dr. Gael Nascimento,TO,20,1596.95,953,,1
+Pedro Lucas Alves,TO,41,5430.6,540,True,1
+Allana Teixeira,PI,51,1591.29,807,True,1
+Sr. Dante Gonçalves,AM,26,3746.18,827,True,1
+Sra. Hadassa Azevedo,MS,42,2385.8,738,True,1
+Ana Cecília Borges,RN,48,5322.42,347,True,1
+Vitor Gabriel Nascimento,GO,32,2832.3,680,False,0
+Murilo Moreira,AL,33,2977.32,453,False,0
+Srta. Ester da Mota,TO,35,6410.54,560,,1
+Dr. Noah Fonseca,RO,25,6825.98,488,,1
+Sra. Bruna da Costa,CE,59,2092.28,566,True,0
+Benjamim Souza,AP,26,5994.41,373,False,0
+Pedro Jesus,ES,56,3615.16,914,False,0
+Brayan Monteiro,RS,42,3373.28,496,False,0
+Dr. Arthur Gabriel Mendonça,PE,30,1724.02,792,True,1
+Isabel da Cunha,AP,37,3328.9,398,True,0
+Hadassa Caldeira,MA,33,3578.96,766,True,1
+Ana Júlia da Paz,SC,66,3064.66,846,False,0
+Arthur Gabriel Sá,RS,64,1603.61,604,True,0
+Olivia Viana,SP,59,1844.0,891,False,0
+Eduarda Cardoso,ES,42,9701.56,821,False,1
+Hellena Oliveira,SP,41,3090.94,738,True,1
+Dom Melo,GO,31,1763.21,374,,0
+Bruno Monteiro,PR,68,6091.03,521,False,0
+Agatha Fernandes,RJ,25,9322.0,920,True,1
+Rafael Alves,RJ,18,2239.82,915,False,0
+Maria Flor Guerra,SC,59,3434.12,852,False,0
+Emilly Rezende,RR,52,6597.35,998,True,1
+Luiz Gustavo Monteiro,RN,65,12364.29,910,False,1
+Maria Luiza Aragão,PB,31,,962,True,1
+Fernanda da Cunha,ES,20,9436.42,546,True,1
+Larissa da Luz,RR,66,,555,True,1
+Davi Miguel Abreu,RO,24,4499.41,648,True,1
+Vitor Gabriel da Conceição,RJ,19,2095.72,691,True,0
+Sra. Helena Carvalho,SE,39,3645.57,896,True,1
+Ana Júlia Lopes,SC,19,3671.81,572,True,1
+Ana Vitória Teixeira,MT,33,2993.38,624,True,1
+Benjamin Barros,DF,39,9424.21,564,True,1
+Caleb Duarte,RR,18,2012.99,908,True,1
+Kamilly Novais,RO,49,2609.21,582,True,1
+Theo Porto,MT,40,11496.39,617,True,1
+Dr. Guilherme da Costa,RS,54,1838.59,993,True,1
+Kamilly Moreira,MS,51,7434.46,481,True,1
+Dra. Carolina Mendonça,SE,18,18839.33,595,True,1
+Ravi Vasconcelos,MG,64,2742.85,773,True,1
+Ágatha Cunha,CE,18,3145.92,710,True,1
+Carlos Eduardo Almeida,BA,52,2317.88,996,True,1
+Luna Rezende,ES,51,8098.24,798,True,1
+Ana Beatriz Moraes,MT,42,21822.5,593,True,1
+Isabelly das Neves,DF,52,,868,True,1
+Antony Nascimento,AP,44,2005.25,620,False,0
+Ravy Freitas,PE,33,3819.78,353,True,0
+Luana Silveira,MT,40,4292.36,572,False,0
+Alexandre Sousa,PA,21,4302.37,461,True,1
+Eduarda Nunes,BA,54,6328.38,733,True,1
+Júlia Fonseca,SE,36,5854.99,800,,1
+Ana Leão,AL,44,,690,True,1
+Augusto Caldeira,PR,19,3491.75,484,True,1
+Jade Ribeiro,MT,52,3422.59,633,True,1
+Otto Fogaça,BA,49,12626.62,962,True,1
+Isaque Duarte,PR,56,4800.9,479,True,1
+Sara Aragão,GO,68,4711.28,508,True,1
+Srta. Ana Liz Cavalcanti,MA,44,5174.63,852,True,1
+Pedro Lucas Aparecida,MS,24,4058.54,938,True,1
+Mateus Viana,AC,65,1800.09,373,True,0
+Levi Pastor,PR,50,1836.05,723,,0
+Alice Duarte,SP,21,4145.51,617,False,0
+Caleb Nascimento,MG,38,15005.9,467,True,1
+Gabriel Freitas,SP,37,4559.08,573,True,1
+João Pedro da Mata,AP,37,7205.53,431,False,0
+Dra. Zoe Souza,PE,32,1724.22,504,True,0
+Ana Lívia Pastor,TO,43,1864.56,837,True,1
+Raquel Brito,MS,29,2344.55,572,True,1
+Natália Melo,DF,53,9047.93,654,False,1
+Manuela Dias,ES,18,8041.02,488,True,0
+Bella Costa,PR,23,3893.9,456,True,1
+Felipe Araújo,ES,50,4655.95,389,True,1
+Isabelly Gomes,PI,61,15178.0,758,True,1
+Heloísa Ribeiro,DF,38,,909,,1
+Maria Eduarda Albuquerque,PR,34,16638.71,378,True,1
+Dr. Calebe Garcia,PA,19,6709.53,482,True,1
+Sr. Luiz Gustavo Santos,PA,53,12541.03,537,True,1
+Antonella Machado,RN,49,5138.38,350,True,1
+Ana Luiza Almeida,ES,28,1869.05,946,False,0
+Pedro Santos,PA,32,6886.26,992,True,1
+Augusto Cavalcanti,CE,59,7013.56,566,True,1
+Manuela da Cunha,SE,63,6581.09,951,,1
+Ana Clara Cirino,SE,51,7778.78,815,True,1
+Theo Azevedo,AL,27,6702.39,941,True,1
+Esther Sampaio,DF,25,5406.07,951,True,1
+Maysa Pinto,RS,46,8209.75,411,True,1
+Oliver Pereira,SC,47,7044.44,960,True,1
+Hadassa Martins,ES,61,3089.3,721,False,0
+Gabriel Nascimento,CE,67,1667.18,689,True,0
+Davi Luiz da Mota,RJ,56,3145.53,369,True,0
+Luna Correia,DF,59,1811.4,651,False,0
+Murilo Silveira,AL,42,,843,,1
+Isabel Souza,PI,24,8687.03,776,True,1
+João Pedro Lima,RS,68,3690.74,525,True,1
+Eloá Camargo,PE,27,3016.46,841,True,1
+Gustavo Nogueira,PI,57,4826.33,460,True,1
+João Vitor Teixeira,RO,33,2870.21,578,,1
+Diego Monteiro,MS,43,4159.28,356,True,0
+Antony da Rocha,PE,29,3181.96,389,True,0
+Marcelo Santos,ES,19,4544.22,784,True,0
+Srta. Ana Júlia Cirino,SE,26,3197.73,450,True,0
+Sr. Ryan Aparecida,AL,58,5684.26,629,True,1
+Marcos Vinicius Camargo,RO,52,11079.96,339,True,1
+Alexandre Aparecida,SP,54,4071.02,310,True,0
+Joaquim Novais,PE,30,2664.25,518,False,0
+Sr. Otto da Costa,RN,48,,367,,0
+Yuri Barbosa,AL,50,3861.1,656,True,0
+Antônio Castro,AM,51,3463.91,611,True,1
+Mathias da Costa,GO,55,6015.67,889,True,1
+Esther da Rosa,BA,32,,606,True,1
+Manuella Vargas,ES,48,2829.41,695,False,0
+Dra. Joana Carvalho,AL,20,16523.09,909,False,1
+Vitor Gabriel Costela,SE,58,4628.55,932,True,1
+Levi Rocha,AC,29,2611.16,327,True,0
+Cecília Mendes,PB,41,3344.04,667,False,0
+Arthur Miguel Barbosa,RS,40,2158.29,860,True,1
+João Guilherme Rezende,PE,48,4309.86,860,True,1
+Sra. Isis Barbosa,RO,33,4390.22,988,True,1
+Miguel da Cunha,AM,53,12679.47,777,True,1
+Antonella Lopes,PE,38,24489.91,935,True,1
+Liz da Cruz,GO,45,8505.49,383,True,1
+Francisco Pinto,TO,35,8816.68,702,True,1
+Yuri Alves,PE,61,15986.51,599,True,0
+Lorenzo Cavalcante,MG,56,1528.67,341,True,0
+Léo Abreu,DF,38,6446.97,743,True,0
+Dr. Cauê da Rosa,PB,22,,348,True,0
+Henrique Marques,RO,36,,595,True,1
+Theo Marques,BA,53,10451.1,520,False,1
+Ana Lívia Vasconcelos,AC,33,10474.76,518,True,1
+Alícia Correia,DF,38,2806.77,455,True,0
+Ana Lívia Costa,RR,62,2808.51,683,,0
+Nicole Rios,RJ,62,2171.41,938,,1
+Anthony Gabriel Novaes,ES,68,2945.14,667,False,0
+Maria Luísa Ribeiro,PB,36,7823.06,808,False,1
+Emanuel Rios,SE,64,12914.95,628,True,1
+Dr. Luiz Miguel Barros,PI,24,2458.83,765,True,1
+Otávio Carvalho,CE,41,16669.25,969,,0
+Maria Luísa Silva,SE,35,2900.63,356,True,0
+Stella Farias,PB,49,2247.55,508,False,0
+João Felipe Almeida,PE,36,4147.94,718,True,1
+Theo Souza,AL,49,7054.76,821,True,1
+Luísa Souza,SE,56,15141.18,326,True,1
+Rael Gonçalves,SE,35,11905.44,461,True,1
+Caleb Silveira,MS,52,6565.78,499,False,0
+Dra. Maria Júlia Sá,MS,42,6186.32,466,False,0
+Mariah Moraes,GO,37,2259.92,458,,0
+Thales Guerra,RJ,48,8398.33,516,True,1
+Ana Carolina Campos,AM,32,2981.18,957,False,0
+Vinicius Câmara,PR,68,2606.18,617,True,1
+Yuri Câmara,RR,68,1764.96,785,False,0
+Pietra Correia,RR,49,1623.3,989,True,1
+Dra. Stephany da Cruz,AP,34,1801.76,631,True,1
+Ana Cecília Gomes,MT,36,2868.43,828,True,1
+Dra. Ana Lívia Correia,DF,41,3327.11,835,False,0
+Sra. Isabelly Rezende,RS,52,2606.49,467,True,0
+Gustavo Henrique Ramos,PI,30,7515.41,623,True,1
+Breno Santos,TO,69,1751.36,888,True,1
+Luiz Otávio Martins,SE,29,2089.61,526,False,0
+Sr. Lorenzo Siqueira,PA,30,18986.24,992,True,1
+Lorena da Cruz,RJ,22,4859.81,472,True,1
+João Vitor Machado,MG,25,4666.4,415,True,0
+Manuela Teixeira,PB,51,12117.07,746,True,1
+Dra. Olívia Pires,PR,40,12010.26,694,True,1
+Valentim Nogueira,CE,66,7340.02,900,True,1
+Gabriela Vasconcelos,PI,35,3952.64,538,True,1
+Antonella Mendonça,PE,65,2884.95,949,,1
+Maria Alice Dias,AL,47,5018.25,909,False,1
+Marcela Sales,DF,44,3788.48,600,True,1
+Alana Santos,PB,55,3853.99,858,True,1
+Isabelly Gomes,PA,26,3920.0,859,True,1
+Maria Flor Albuquerque,PE,46,3796.18,302,,0
+José Pedro Sampaio,SC,56,6271.99,710,,1
+Davi Pinto,GO,52,8400.28,637,False,1
+Sra. Lavínia Abreu,PR,68,,895,True,0
+Maya Garcia,ES,55,8472.68,557,True,1
+Isabel Almeida,PB,65,4480.44,348,True,0
+Dr. Alexandre da Rosa,PA,61,3255.78,645,True,0
+Laura Nunes,PB,69,1932.7,955,True,1
+Ana Lívia Cavalcante,PB,43,4224.71,737,True,1
+Dr. Igor Barbosa,RJ,55,9886.2,908,True,1
+Srta. Ana Julia Dias,AL,48,7209.05,563,False,0
+Benício da Costa,ES,46,4994.21,905,False,1
+Isabella Ribeiro,SC,46,,706,True,0
+Davi Abreu,MG,44,,524,True,1
+Joana Guerra,SC,46,5430.26,519,True,1
+Dr. Rodrigo Santos,PR,44,2039.2,836,False,0
+Maria Luísa Garcia,RO,23,2313.86,993,True,1
+Bernardo Camargo,MS,39,6359.83,898,False,1
+Maria Laura Porto,MT,69,5591.58,508,True,1
+Igor Sales,MT,61,7459.02,515,,0
+Sra. Allana Rios,ES,33,11660.52,835,True,1
+Sra. Sabrina Rezende,CE,28,10518.1,570,True,1
+Dra. Helena Mendes,TO,35,12025.15,696,,1
+Stephany da Conceição,GO,24,8659.87,338,False,0
+Eduardo Novais,MT,24,13272.56,301,False,1
+Noah Nogueira,MS,52,2344.01,632,True,1
+Valentim Martins,PE,68,1942.21,894,False,0
+Maria Luiza Barros,PA,21,2378.51,480,True,0
+Sra. Maria Isis da Cunha,PA,19,3248.22,980,True,1
+Sr. Vinicius Cassiano,RJ,33,2737.54,901,True,1
+Ana Lopes,ES,63,3172.67,813,True,1
+Gabriel da Rocha,AL,36,2065.36,813,True,1
+Ayla Azevedo,PR,52,4187.41,569,True,1
+Hadassa Aparecida,CE,26,12786.93,368,False,1
+Ana Beatriz Guerra,AC,31,2766.69,328,True,0
+Sr. Luiz Miguel Moraes,PE,35,7768.64,634,True,1
+Sra. Ester Silva,SC,55,12459.7,925,True,0
+Sra. Ana Julia Camargo,GO,21,8352.02,612,True,1
+Luiz Felipe Sá,AM,22,1850.79,397,False,0
+Ana Sophia Cassiano,PA,67,2215.21,937,True,1
+Dom Casa Grande,RS,63,1870.2,685,False,0
+Bento Carvalho,MT,26,10962.14,974,False,0
+Oliver Camargo,PR,35,6700.13,346,False,0
+Srta. Julia Câmara,MS,60,1761.07,629,True,1
+Maria da Cruz,SP,20,2047.0,866,True,1
+Maya Sales,RO,29,7866.21,997,False,1
+Alexandre Martins,MG,69,3660.9,896,True,0
+João Gabriel das Neves,AM,47,2450.53,554,True,0
+Valentim Leão,RJ,36,14350.16,575,True,1
+Dr. Caio Abreu,PA,44,1534.63,851,,1
+Melissa Moura,RJ,54,3697.48,468,True,1
+Arthur Gabriel Sá,GO,59,5051.12,823,True,1
+Henrique Monteiro,RR,60,2695.24,568,True,1
+Gabrielly Cunha,MS,50,5442.59,443,True,1
+Milena Monteiro,RJ,59,11443.92,857,False,1
+Letícia Cardoso,CE,23,2354.34,745,True,1
+Milena Costa,MT,65,12426.9,577,False,1
+Igor Garcia,PE,26,3868.68,800,True,1
+Bárbara Machado,RJ,20,6457.32,333,True,0
+Heloisa Nogueira,PR,35,2844.15,796,True,1
+Joaquim Abreu,ES,18,2626.56,905,True,1
+Yuri Peixoto,RJ,33,1827.56,429,True,0
+Sr. Vinicius Nunes,ES,46,6776.23,802,False,1
+Sarah da Cunha,PA,66,2567.99,598,True,1
+Ana Luiza Correia,PB,57,1528.47,465,False,0
+Sr. Vinicius Silva,SC,20,7744.18,603,True,1
+Isadora da Costa,SP,23,2075.6,704,,0
+Srta. Maria Sophia Macedo,CE,57,1836.44,316,False,0
+Maitê Nunes,RJ,40,8221.81,547,True,1
+Vinicius Silva,PR,63,1704.58,972,,0
+Thomas da Conceição,MG,44,2117.56,429,True,0
+José Pedro Nunes,SE,38,8418.69,688,,1
+Melissa Pires,PB,43,6113.57,685,False,0
+Lorena Silva,SP,65,5679.42,312,True,1
+Mariana Cardoso,SP,20,1802.77,504,True,0
+Nina Casa Grande,RS,25,2425.38,403,False,0
+Luiz Miguel Monteiro,ES,59,8249.93,631,,1
+Otto da Conceição,AL,67,,471,True,0

@@ -1,0 +1,1001 @@
+Nome,Idade,Anos_Experiencia,Nivel_Ingles,Cargo,Salario
+Luiz Felipe Novais,,24,Intermediário,Pleno,20306.34
+Mariah Moreira,43.0,23,Básico,Especialista,24206.35
+Kaique Abreu,40.0,22,,Pleno,18510.03
+Raul Melo,47.0,26,Intermediário,Pleno,21375.08
+Mariane Teixeira,22.0,0,Intermediário,Junior,3259.74
+Maitê Azevedo,26.0,5,Intermediário,Junior,6383.32
+Henrique da Mata,23.0,4,Intermediário,Junior,5715.41
+Ayla Costela,29.0,6,Avançado,Senior,13126.66
+Sr. João Pedro Fogaça,40.0,18,,Senior,18261.33
+Guilherme Azevedo,34.0,12,Básico,Especialista,17347.76
+Antônio Rodrigues,,19,Avançado,Senior,21257.73
+Maria Eduarda Melo,,23,Avançado,Pleno,21102.0
+Fernanda Castro,43.0,21,Intermediário,Pleno,18571.2
+Melina Marques,20.0,0,Intermediário,Senior,8901.41
+Murilo Farias,34.0,15,Básico,Junior,12034.82
+Bruna Silveira,49.0,27,Básico,Pleno,21580.4
+Isabela Souza,51.0,27,Básico,Junior,19566.16
+Srta. Ana Julia Marques,49.0,26,Intermediário,Senior,24231.5
+Clara Montenegro,,34,Básico,Pleno,26018.45
+Vinícius Vieira,28.0,5,Básico,Junior,6104.42
+Gustavo Henrique Nunes,51.0,33,Intermediário,Junior,22961.59
+Zoe Rezende,,16,Intermediário,Pleno,15271.0
+Vitor Gabriel Ribeiro,52.0,34,Básico,Junior,23535.93
+Dra. Valentina Silveira,30.0,10,Básico,Senior,13997.05
+Dr. Theo Almeida,41.0,21,Avançado,Senior,22111.24
+Gustavo Henrique Rocha,38.0,19,Intermediário,Junior,14421.17
+Clara Barbosa,52.0,28,Avançado,Junior,20986.7
+Pedro Lucas Cassiano,54.0,30,Intermediário,Senior,26371.18
+Sra. Anna Liz Moreira,21.0,3,Básico,Senior,9903.95
+Bernardo Cardoso,35.0,15,Avançado,Pleno,16312.73
+Luiz Otávio Pereira,27.0,6,Avançado,Pleno,10669.93
+Sra. Laís Machado,52.0,31,Básico,Junior,21113.26
+Heloísa Moura,26.0,6,Intermediário,Pleno,9501.84
+Ravy Moura,27.0,7,Intermediário,Junior,7398.51
+Júlia Sales,,30,Básico,Pleno,24091.94
+Yuri da Cruz,49.0,27,Básico,Senior,24358.71
+Caio Camargo,48.0,30,Intermediário,Pleno,23620.19
+Sra. Pietra Pastor,37.0,19,,Senior,19661.24
+Lavínia Machado,51.0,27,Avançado,Junior,21122.97
+Aurora Pereira,48.0,29,Avançado,Senior,26920.54
+Esther Costela,,8,Intermediário,Junior,8233.88
+Kevin Monteiro,34.0,13,Intermediário,Pleno,13525.13
+Kaique Porto,41.0,22,Avançado,Junior,16903.38
+Théo Ribeiro,24.0,0,Básico,Junior,3170.41
+Ana Júlia Oliveira,35.0,13,Avançado,Senior,17257.12
+Pedro Lucas Martins,45.0,23,Básico,Junior,16605.51
+Heloísa Vieira,20.0,1,Avançado,Pleno,7472.26
+Vitor Gabriel Pimenta,20.0,0,Intermediário,Pleno,5918.15
+Liz Lopes,31.0,12,,Senior,15877.53
+Mateus Azevedo,40.0,16,,Pleno,15909.85
+Aylla Camargo,24.0,3,Básico,Junior,4823.4
+Arthur Gabriel Fogaça,23.0,0,Avançado,Senior,10439.2
+Daniela Camargo,31.0,12,Intermediário,Junior,10892.49
+Pedro Lucas Viana,29.0,9,,Junior,8586.82
+Maria Campos,54.0,30,Básico,Junior,20764.25
+Sara Lima,30.0,8,Básico,Pleno,10639.84
+Srta. Emilly Freitas,28.0,8,Avançado,Pleno,12311.07
+Maysa Silveira,31.0,13,Intermediário,Senior,16063.37
+Arthur Moreira,39.0,21,Intermediário,Senior,21229.67
+Heitor Cardoso,35.0,13,Básico,Pleno,13247.94
+Luigi Nunes,42.0,24,Básico,Especialista,25625.47
+Sr. Caleb da Cruz,36.0,14,Avançado,Pleno,15561.83
+Paulo Guerra,46.0,27,Básico,Pleno,21878.2
+Maria Julia Araújo,36.0,12,Avançado,Pleno,13615.3
+Kevin Costa,38.0,16,Intermediário,Senior,17783.31
+Maria Fernanda da Luz,47.0,24,Básico,Junior,16931.21
+Lívia Nunes,20.0,0,Intermediário,Especialista,10421.76
+Ana Luiza Aragão,,6,Básico,Especialista,13762.35
+Lunna Montenegro,40.0,20,Avançado,Junior,16311.23
+Rhavi Vasconcelos,34.0,10,Avançado,Pleno,13086.88
+Sra. Vitória da Costa,30.0,9,Avançado,Junior,9549.78
+Vinicius Marques,45.0,26,Básico,Junior,18506.06
+Helena Camargo,46.0,23,,Junior,17491.1
+Maria Luísa Azevedo,54.0,32,Avançado,Pleno,25602.96
+Leonardo Lopes,29.0,6,Avançado,Junior,8070.56
+Miguel Melo,30.0,8,Intermediário,Junior,8187.11
+Dra. Isis Cardoso,52.0,33,Básico,Junior,22936.98
+Ana Vitória Peixoto,42.0,20,Intermediário,Senior,21264.61
+Amanda Camargo,28.0,5,,Junior,6133.27
+Dra. Aurora Rezende,50.0,26,Intermediário,Pleno,21496.84
+Ayla Moura,31.0,13,,Pleno,13700.41
+Mariah Rodrigues,34.0,12,,Senior,16088.63
+Emilly Gomes,53.0,30,Intermediário,Pleno,23652.57
+Heloísa Freitas,52.0,28,Intermediário,Pleno,22846.56
+Srta. Maria Vitória Silva,23.0,4,Avançado,Pleno,9287.45
+Antonella da Conceição,,9,,Junior,8234.12
+Breno Martins,35.0,11,Intermediário,Pleno,12824.09
+Maria Flor da Cruz,46.0,24,Avançado,Pleno,21035.15
+Dr. Benjamin Moreira,37.0,16,Intermediário,Junior,13773.17
+Lorenzo da Cunha,33.0,14,Intermediário,Junior,12852.65
+Liam Nogueira,49.0,29,Avançado,Junior,22240.54
+Igor Barros,34.0,10,Intermediário,Pleno,11751.85
+Benjamin Nascimento,43.0,24,Intermediário,Junior,18240.56
+Henry Gabriel Aparecida,37.0,18,Intermediário,Junior,13904.83
+Luiz Miguel Nogueira,47.0,28,Intermediário,Senior,25330.11
+Calebe Teixeira,44.0,23,Intermediário,Pleno,19450.0
+Emilly Porto,41.0,22,Intermediário,Pleno,18396.97
+Emanuella Pereira,53.0,33,Intermediário,Especialista,31226.98
+Sr. Luiz Gustavo Siqueira,41.0,19,Básico,Junior,14247.24
+Noah Vargas,28.0,4,Básico,Junior,5234.62
+Srta. Esther Carvalho,25.0,6,Intermediário,Especialista,15318.07
+Jade Melo,30.0,11,Básico,Senior,14570.2
+Rafael Viana,38.0,17,Intermediário,Junior,13803.89
+Letícia Correia,,6,Intermediário,Pleno,9238.27
+Otto da Conceição,29.0,7,Básico,Especialista,15102.52
+Caroline Santos,36.0,18,Intermediário,Pleno,16569.24
+Ana Clara Porto,24.0,1,Intermediário,Pleno,6396.64
+Maria Flor Azevedo,48.0,28,Intermediário,Junior,19803.26
+Caio Carvalho,24.0,4,Intermediário,Pleno,8748.45
+Miguel Barros,33.0,13,Intermediário,Pleno,13669.59
+Pedro Miguel Oliveira,36.0,18,Intermediário,Pleno,15884.38
+Anna Liz Pastor,34.0,10,Intermediário,Pleno,12572.99
+Juan Nogueira,52.0,30,Básico,Senior,26028.63
+Apollo Santos,52.0,29,,Junior,21708.94
+Samuel da Rocha,,12,Intermediário,Pleno,13765.7
+Davi Miguel Ramos,45.0,25,Intermediário,Senior,23310.56
+Eduardo Pimenta,25.0,1,Intermediário,Especialista,11711.99
+Daniela Monteiro,31.0,10,Intermediário,Pleno,11549.8
+Sra. Maria Alice Souza,47.0,23,Intermediário,Pleno,19873.55
+Lucas Gabriel da Conceição,40.0,21,Avançado,Junior,17140.04
+Antony Barros,34.0,12,,Senior,15946.49
+Srta. Bruna Oliveira,44.0,25,Avançado,Junior,19247.83
+Giovanna Cunha,36.0,16,,Especialista,20288.68
+Maria Helena Cavalcanti,52.0,34,Intermediário,Junior,23288.09
+Heloisa Santos,26.0,8,Avançado,Junior,8980.36
+Srta. Antonella Barbosa,20.0,0,Intermediário,Pleno,5934.19
+Aylla Moura,49.0,27,Intermediário,Junior,19821.24
+Marcos Vinicius Sampaio,21.0,0,Intermediário,Pleno,6466.6
+Pedro Lucas Viana,20.0,0,Básico,Senior,8205.52
+Maria Isis da Rosa,47.0,28,Avançado,Pleno,23682.25
+Isabel Almeida,42.0,22,Intermediário,Pleno,19525.02
+Mariah Souza,27.0,8,Avançado,Especialista,16047.72
+Diego Andrade,,14,Avançado,Junior,12222.69
+Joaquim Costa,52.0,28,Avançado,Junior,20939.79
+Maitê Gomes,37.0,18,,Pleno,18202.04
+Juan Costa,39.0,17,Intermediário,Senior,18497.03
+Ana Lívia Correia,54.0,33,Avançado,Senior,29366.57
+Alana Moraes,51.0,33,Intermediário,Pleno,25409.61
+Maria Julia Aragão,44.0,20,Básico,Pleno,17082.2
+Theodoro Cirino,30.0,7,Avançado,Junior,8611.04
+Ester Costa,36.0,14,Intermediário,Senior,17002.41
+Jade Rios,26.0,7,Avançado,Pleno,11593.08
+Beatriz Silva,,0,Avançado,Junior,4558.88
+Caleb Abreu,30.0,9,Intermediário,Junior,8810.98
+Ágatha Pastor,43.0,20,Básico,Pleno,17619.1
+Arthur Gabriel Gomes,36.0,13,Avançado,Junior,11612.18
+Francisco Cardoso,28.0,10,,Pleno,12307.19
+Valentim Garcia,,26,Intermediário,Junior,19740.5
+Dra. Maya Mendes,36.0,17,Intermediário,Pleno,16476.65
+Eduardo Nascimento,35.0,12,Avançado,Especialista,19714.46
+Anthony Borges,45.0,21,Básico,Pleno,17319.01
+Raquel Costa,27.0,8,,Senior,13188.2
+Srta. Liz Vargas,54.0,35,Intermediário,Pleno,26490.37
+Sr. Davi Miguel Siqueira,22.0,0,Intermediário,Pleno,6565.62
+Clara Camargo,23.0,1,Intermediário,Senior,8041.1
+Daniela Machado,54.0,35,Avançado,Junior,25791.82
+Marcela Nogueira,51.0,31,Básico,Junior,21590.29
+Ana Laura da Cruz,29.0,6,Intermediário,Pleno,9377.91
+Rael Duarte,,0,,Junior,3098.34
+Maitê Rios,34.0,16,Básico,Junior,12292.88
+Antony Viana,25.0,1,Avançado,Especialista,13523.89
+Pedro Miguel Pimenta,27.0,6,,Junior,7834.44
+Srta. Maria Eduarda Cardoso,,35,Básico,Junior,23745.05
+Sra. Melina da Paz,28.0,8,Intermediário,Pleno,11275.61
+Joaquim Duarte,37.0,14,,Senior,18794.27
+Liam Costela,23.0,0,Avançado,Pleno,6733.62
+Leonardo Gomes,48.0,30,Básico,Senior,25972.39
+Srta. Daniela da Rocha,53.0,32,Intermediário,Junior,22624.97
+Srta. Zoe Aparecida,25.0,3,Básico,Pleno,5907.68
+Davi Luiz Mendonça,53.0,33,Avançado,Senior,28951.91
+Kamilly Azevedo,47.0,29,,Junior,19932.44
+Kaique Melo,46.0,23,Básico,Senior,21502.99
+Ana Luiza Cassiano,,26,Básico,Senior,23691.85
+Isadora Fogaça,,10,Básico,Junior,8939.01
+Dr. Bryan da Rosa,36.0,12,,Junior,10611.52
+Maria Barbosa,51.0,32,,Pleno,25275.89
+Maria Sophia Câmara,,2,Intermediário,Junior,5129.45
+Arthur Miguel Cirino,20.0,0,Intermediário,Junior,3089.39
+Guilherme Vieira,48.0,27,Intermediário,Junior,20326.21
+Manuela Costela,53.0,31,Avançado,Junior,23073.7
+Elisa Peixoto,48.0,26,Básico,Senior,23310.63
+Sophie Camargo,47.0,25,Avançado,Pleno,22292.46
+Dr. Benjamin Andrade,24.0,4,Intermediário,Junior,6276.87
+Maria Luísa Novaes,43.0,22,Intermediário,Pleno,19544.04
+Luísa Fonseca,,26,Básico,Junior,19250.61
+Sr. Emanuel Siqueira,43.0,22,,Junior,16707.48
+Caleb Aragão,26.0,8,Intermediário,Junior,7705.29
+José Miguel Guerra,21.0,1,Avançado,Junior,5226.57
+Srta. Maria Fernanda Costela,37.0,14,Avançado,Senior,18386.06
+Sr. José Barbosa,30.0,7,Intermediário,Junior,7996.83
+Melina Andrade,34.0,11,Intermediário,Senior,15011.61
+Maysa Montenegro,,34,Intermediário,Junior,23910.75
+Sra. Maria Liz Cunha,21.0,0,,Pleno,5771.53
+Natália Silva,30.0,8,,Junior,8529.03
+Mariane Ramos,51.0,33,Intermediário,Senior,28658.08
+Maria Flor da Mota,26.0,6,Avançado,Pleno,10854.07
+Aylla Dias,22.0,0,Intermediário,Senior,8239.43
+Nicolas Sampaio,27.0,5,Intermediário,Pleno,8806.45
+Lucca Lopes,37.0,17,Básico,Especialista,20715.2
+Ana Clara Sales,48.0,25,Básico,Junior,18048.01
+Sr. Lucca da Cruz,50.0,31,,Pleno,24109.69
+Ana Leão,51.0,33,Intermediário,Senior,27714.25
+Alana Rezende,53.0,32,Intermediário,Junior,23020.2
+Sr. Luiz Fernando Silva,40.0,16,Básico,Senior,17671.71
+Emanuelly Rios,,10,Intermediário,Pleno,11957.07
+Augusto Azevedo,33.0,9,Intermediário,Pleno,11105.62
+Erick Porto,47.0,28,Avançado,Junior,21986.71
+Ágatha Pacheco,50.0,30,Avançado,Pleno,25615.04
+Igor Câmara,31.0,8,Básico,Pleno,10535.11
+Maria Clara Almeida,47.0,29,Intermediário,Junior,20946.06
+Augusto Cavalcante,,23,Avançado,Junior,18169.25
+Bárbara da Mota,39.0,20,Básico,Junior,14779.62
+Mateus Siqueira,24.0,6,Intermediário,Junior,7155.74
+Augusto Silveira,42.0,21,,Junior,16281.01
+Rael Guerra,27.0,8,Básico,Senior,12616.63
+Luiz Miguel Cirino,,0,Avançado,Junior,4262.47
+Dr. Fernando Vieira,45.0,21,Intermediário,Junior,16179.03
+Breno Freitas,35.0,12,Intermediário,Pleno,13379.69
+Léo das Neves,25.0,1,Avançado,Pleno,7728.54
+Dra. Maria Cavalcanti,23.0,4,Intermediário,Junior,6068.77
+Kaique Fonseca,37.0,15,,Pleno,14939.98
+Raul Santos,34.0,16,Intermediário,Junior,13150.23
+Sophie Pereira,44.0,26,Básico,Junior,19256.81
+Francisco Melo,22.0,0,,Pleno,7403.93
+André Porto,45.0,27,Intermediário,Junior,20109.03
+Dr. Oliver Borges,,2,Intermediário,Especialista,13175.9
+Ágatha Nascimento,35.0,11,Básico,Especialista,16625.32
+Emanuella Campos,38.0,19,Básico,Pleno,17512.29
+Bruno Marques,48.0,24,Intermediário,Pleno,20501.7
+Maria Vitória Silva,45.0,27,Intermediário,Junior,19508.24
+Pedro Henrique Lopes,50.0,26,Básico,Senior,23270.95
+Cecilia Brito,32.0,8,Intermediário,Pleno,10739.86
+Otávio Costa,34.0,15,Básico,Junior,12070.6
+Sr. Calebe Martins,23.0,4,Intermediário,Senior,11006.16
+Raul da Rocha,38.0,17,Básico,Pleno,15521.14
+Rodrigo Almeida,40.0,22,Básico,Junior,15965.58
+Thomas Rocha,30.0,11,Básico,Pleno,12366.79
+Mathias Mendonça,30.0,6,Intermediário,Senior,11480.19
+Dra. Rafaela Lima,51.0,27,Intermediário,Junior,20152.28
+Sophia Rodrigues,25.0,7,Intermediário,Pleno,10886.28
+Ana Sophia Câmara,46.0,24,Básico,Pleno,19461.89
+Luna da Mata,21.0,0,Intermediário,Junior,3793.19
+Sr. Liam Vargas,27.0,4,Intermediário,Especialista,13615.5
+Olívia Gonçalves,49.0,31,Avançado,Junior,22731.73
+João Fonseca,22.0,0,Básico,Junior,3029.2
+Olivia Correia,25.0,2,Básico,Senior,9512.03
+Beatriz Cassiano,,31,Básico,Junior,21285.6
+Murilo Macedo,28.0,10,Intermediário,Junior,8967.51
+Srta. Isadora Silva,25.0,5,Intermediário,Pleno,8202.43
+José Miguel da Rocha,37.0,15,Intermediário,Senior,17987.33
+Maria Fernanda Rodrigues,35.0,11,Intermediário,Junior,9624.83
+Beatriz Costa,39.0,20,Intermediário,Senior,20358.79
+Laís Cassiano,50.0,27,Básico,Senior,23993.5
+Benício Moraes,32.0,10,Básico,Pleno,11872.71
+Oliver Viana,31.0,10,Intermediário,Pleno,11624.27
+Vitor da Cruz,21.0,0,Intermediário,Junior,3442.36
+Emanuella da Mota,44.0,25,Intermediário,Senior,22901.65
+Dra. Melissa Cardoso,40.0,22,Intermediário,Junior,17052.84
+Calebe Cassiano,52.0,31,Intermediário,Junior,21806.9
+Beatriz Silveira,54.0,30,Intermediário,Pleno,23719.33
+Dr. Valentim Monteiro,24.0,1,Básico,Junior,4147.78
+João Campos,24.0,6,Intermediário,Senior,11946.39
+Stephany Moura,51.0,30,,Junior,21495.95
+Arthur Miguel Fogaça,23.0,4,Intermediário,Senior,11787.37
+Dr. Ravy Mendonça,48.0,25,,Especialista,26186.02
+Nathan Novais,52.0,33,Avançado,Junior,24366.66
+Sophie da Paz,53.0,33,,Junior,23250.48
+Ana Júlia Vargas,,0,Intermediário,Junior,3890.46
+Zoe Siqueira,43.0,23,Básico,Especialista,23979.0
+Luiz Miguel Araújo,34.0,14,,Junior,12419.52
+Zoe Castro,49.0,26,Intermediário,Junior,19342.85
+Arthur Marques,23.0,0,Básico,Especialista,11024.46
+Henry Gabriel da Paz,29.0,7,Básico,Pleno,9685.29
+Evelyn Castro,51.0,30,Básico,Junior,20593.91
+Sr. Apollo Nunes,28.0,10,Intermediário,Pleno,11554.21
+Sarah Garcia,51.0,31,Avançado,Pleno,25452.41
+Stephany Barbosa,31.0,13,,Pleno,13949.0
+Dr. Igor Moraes,,18,Avançado,Especialista,23439.65
+Brenda Correia,48.0,26,Intermediário,Senior,24112.19
+Bianca Brito,52.0,32,Básico,Pleno,24103.23
+Ágatha Câmara,44.0,22,Básico,Pleno,18616.39
+Léo Lima,29.0,7,Intermediário,Pleno,9859.79
+Juan Cavalcante,32.0,14,Intermediário,Junior,11586.04
+Ravy Fonseca,30.0,10,,Pleno,13259.31
+Raquel da Luz,,2,Intermediário,Junior,4857.56
+José Pedro Cavalcante,29.0,6,Básico,Junior,6249.99
+Amanda Campos,26.0,5,,Senior,11412.1
+Marina Cirino,,24,Intermediário,Pleno,20273.27
+José Pedro Oliveira,38.0,15,,Senior,17532.63
+Camila Silveira,52.0,33,Intermediário,Junior,23822.62
+Sr. Davi Lucas Peixoto,52.0,34,Intermediário,Pleno,26618.05
+Nathan Correia,28.0,9,Intermediário,Junior,8522.63
+Liz Araújo,32.0,12,Básico,Senior,15256.35
+Gael Henrique Jesus,54.0,31,Básico,Junior,20892.62
+Fernando das Neves,40.0,21,Avançado,Senior,21905.3
+Sra. Maria Vitória Rodrigues,43.0,25,,Junior,18056.73
+Calebe das Neves,50.0,29,Intermediário,Especialista,28009.45
+Samuel Nascimento,29.0,6,Intermediário,Senior,11743.02
+Bruno Araújo,39.0,20,Avançado,Junior,15530.3
+Lívia Aparecida,37.0,17,,Pleno,17553.62
+Laura Duarte,33.0,15,Intermediário,Especialista,20178.4
+Anthony Gabriel Sousa,44.0,22,Intermediário,Junior,16418.69
+Sra. Ana Carolina Duarte,23.0,0,Básico,Senior,8407.0
+Luigi Cunha,41.0,23,Intermediário,Junior,18365.27
+Heloísa Gonçalves,40.0,18,Avançado,Senior,20120.65
+Júlia Sales,41.0,20,Básico,Pleno,18304.0
+Cauã Pires,,27,,Pleno,23518.18
+Vicente Ribeiro,34.0,11,Básico,Junior,9923.58
+Ian da Cruz,47.0,28,Intermediário,Pleno,22692.61
+Mathias Câmara,54.0,31,,Pleno,24321.22
+Luigi da Cruz,24.0,4,Básico,Junior,5296.98
+André Viana,27.0,3,Intermediário,Junior,5008.22
+Gustavo Henrique Duarte,39.0,16,Intermediário,Junior,12966.09
+Sr. Matheus Pereira,23.0,0,Intermediário,Junior,3338.54
+Oliver da Costa,35.0,17,Intermediário,Especialista,21659.49
+Kevin Sales,50.0,30,Básico,Junior,21572.94
+Sr. Renan Macedo,44.0,23,Avançado,Junior,17977.85
+Heloísa Monteiro,25.0,5,Intermediário,Especialista,14238.58
+Heloisa Pimenta,28.0,6,,Senior,11627.91
+Ayla Camargo,45.0,22,Intermediário,Pleno,19616.81
+Alexia da Mota,37.0,18,Intermediário,Pleno,17433.0
+Augusto Cardoso,46.0,26,Básico,Senior,23805.4
+Ayla Jesus,47.0,23,Básico,Senior,22034.68
+Davi Andrade,23.0,4,,Junior,5710.04
+Marcela Aragão,33.0,12,Avançado,Senior,16953.89
+André Dias,46.0,22,Básico,Junior,16643.88
+José Miguel Abreu,,4,Intermediário,Especialista,13324.99
+Eloá das Neves,45.0,22,Básico,Senior,20822.97
+Clara Teixeira,38.0,20,Avançado,Especialista,24401.29
+Sra. Maria Sophia Moura,38.0,14,,Junior,12722.74
+Beatriz Ribeiro,,13,Básico,Pleno,13631.98
+Antonella Sales,33.0,10,Intermediário,Junior,9278.87
+Maria Julia Moreira,41.0,23,Avançado,Pleno,21295.45
+Manuela Peixoto,,7,Avançado,Pleno,11245.88
+Guilherme Costela,22.0,1,Básico,Junior,3706.06
+Dra. Alícia da Cruz,20.0,0,Intermediário,Junior,3756.77
+Leonardo da Mata,34.0,16,Intermediário,Junior,13672.87
+Cecilia Sousa,47.0,26,Básico,Senior,23491.39
+João Miguel Macedo,43.0,24,,Especialista,25150.56
+Yasmin da Cunha,31.0,8,Básico,Junior,7180.49
+Otto da Rocha,48.0,26,Intermediário,Junior,18498.11
+Aylla Duarte,27.0,7,Avançado,Junior,9004.02
+Sr. Luiz Henrique Silva,28.0,6,,Senior,12015.3
+Sophia Nunes,30.0,7,Avançado,Junior,8734.55
+Melina Lima,38.0,17,Avançado,Pleno,17536.6
+Lorenzo Fernandes,,28,Intermediário,Senior,24833.82
+Olívia da Conceição,42.0,24,Intermediário,Pleno,20292.59
+Daniel Cassiano,,14,,Senior,16543.52
+Luiz Gustavo Pacheco,34.0,16,,Pleno,16163.84
+Davi Araújo,37.0,17,Avançado,Pleno,17764.37
+Anna Liz Pereira,,24,Avançado,Junior,18442.51
+Dr. Calebe da Cruz,,34,,Pleno,26443.42
+Srta. Letícia Nascimento,50.0,32,Intermediário,Pleno,25388.39
+Diogo Farias,28.0,6,Avançado,Pleno,10938.24
+Sr. Bryan Borges,22.0,1,Intermediário,Senior,9068.69
+Rael da Luz,47.0,25,Intermediário,Junior,18361.76
+Luiz Gustavo Cavalcanti,38.0,16,Intermediário,Junior,13274.57
+Noah Jesus,27.0,8,,Pleno,12330.54
+Maria Laura da Rocha,,1,,Pleno,6059.15
+Sr. Vinicius Mendes,46.0,27,Intermediário,Junior,19863.7
+Nicole Campos,54.0,30,Intermediário,Especialista,28655.18
+Davi Brito,36.0,14,Avançado,Senior,17938.0
+Sra. Zoe Macedo,32.0,13,Básico,Junior,10626.7
+Sra. Agatha Ramos,40.0,17,Intermediário,Junior,14107.97
+Marina Novais,20.0,0,Intermediário,Especialista,11129.76
+Isabella Santos,54.0,33,Intermediário,Junior,23156.84
+Bárbara Carvalho,40.0,19,Avançado,Senior,21565.78
+Miguel Novaes,40.0,17,Intermediário,Junior,14324.76
+Gabriel Cirino,31.0,8,Básico,Pleno,10294.61
+Samuel Rocha,30.0,12,Intermediário,Pleno,13356.21
+Henry Nascimento,36.0,16,Avançado,Pleno,17444.14
+Asafe Santos,54.0,30,Básico,Senior,25532.58
+Sra. Lorena Ferreira,51.0,31,Intermediário,Junior,22389.08
+Liam Vargas,41.0,21,Avançado,Pleno,19255.06
+Carlos Eduardo Mendes,31.0,12,Intermediário,Senior,16278.77
+Isabelly Azevedo,,27,Básico,Junior,19256.38
+Ravy Oliveira,20.0,0,Básico,Senior,8278.84
+Sra. Vitória Cirino,,0,Básico,Pleno,5972.98
+Ágatha Sousa,49.0,25,,Junior,18042.71
+Lara Monteiro,38.0,18,Avançado,Pleno,17746.09
+Dr. João Pedro Casa Grande,35.0,12,Básico,Junior,9556.98
+Emanuel Cirino,27.0,3,Avançado,Pleno,8494.91
+Gael Henrique Viana,20.0,2,,Especialista,11538.83
+Srta. Melissa Gonçalves,36.0,12,Intermediário,Pleno,13681.25
+Emanuella Oliveira,39.0,20,Básico,Senior,20190.54
+Juliana Siqueira,32.0,12,Intermediário,Junior,10902.19
+Dra. Stephany Porto,37.0,18,Intermediário,Junior,13951.89
+Luara Nogueira,37.0,14,,Junior,11814.52
+Maria Sophia Cirino,24.0,3,Intermediário,Junior,5190.81
+Anthony Gabriel Novais,23.0,2,Avançado,Especialista,12888.98
+Dr. Henry Gabriel Fonseca,31.0,11,Básico,Pleno,11124.47
+Gabriela Nogueira,29.0,5,Básico,Senior,10946.29
+Rodrigo Castro,30.0,12,Intermediário,Especialista,18125.87
+Lunna Teixeira,36.0,14,Intermediário,Junior,11203.57
+Bianca Ferreira,37.0,14,Intermediário,Junior,11785.44
+Manuela Ramos,21.0,3,Intermediário,Pleno,7930.97
+Sr. Gustavo Fernandes,42.0,20,Básico,Junior,15055.32
+Isaac Ferreira,40.0,19,Básico,Pleno,16764.03
+Sabrina Pereira,29.0,6,,Especialista,14301.31
+Rafaela Moreira,22.0,0,Intermediário,Especialista,11325.23
+Miguel Câmara,44.0,23,Básico,Junior,16692.4
+Helena da Mata,,28,Avançado,Pleno,24426.07
+Liam Nascimento,53.0,31,Básico,Junior,21992.34
+Carlos Eduardo Silveira,31.0,11,Intermediário,Pleno,12303.11
+Cecília Abreu,51.0,31,Avançado,Pleno,25226.26
+Davi Melo,48.0,30,,Pleno,24733.5
+Bárbara Siqueira,,24,Avançado,Especialista,26614.84
+Murilo Cunha,45.0,24,Intermediário,Senior,22920.65
+Nathan Rios,38.0,18,Avançado,Pleno,18249.15
+Marcos Vinicius Santos,50.0,32,Intermediário,Pleno,25407.02
+Yago Brito,30.0,7,Intermediário,Junior,7420.42
+Evelyn Cavalcanti,25.0,2,Avançado,Senior,11200.89
+Joana Sales,50.0,27,,Senior,25081.47
+Liam Andrade,30.0,8,,Junior,8282.09
+João Guilherme Aragão,23.0,3,Intermediário,Pleno,7812.41
+Manuela Costela,,17,,Junior,13449.41
+Pedro Abreu,48.0,28,Intermediário,Pleno,23010.39
+Sr. Noah Barros,27.0,4,Intermediário,Junior,5851.32
+Luana Farias,39.0,20,Intermediário,Pleno,18247.4
+Isis Siqueira,43.0,24,,Senior,22817.01
+Ísis Fogaça,46.0,28,Intermediário,Senior,25297.12
+Isabela Novais,,1,Básico,Junior,3846.01
+Anthony Gabriel Ferreira,45.0,22,Intermediário,Especialista,24697.88
+Otávio Camargo,,1,Avançado,Especialista,11833.53
+Sr. Theo Almeida,24.0,5,Avançado,Junior,7065.82
+Kevin Leão,40.0,20,Intermediário,Senior,20783.37
+Olivia Barbosa,26.0,7,Avançado,Pleno,11148.98
+Bianca Vargas,,30,Básico,Pleno,24104.46
+Henrique Caldeira,46.0,25,,Senior,22638.66
+Nina Vasconcelos,53.0,31,Intermediário,Pleno,24564.31
+Pietra Albuquerque,,20,Básico,Pleno,17776.09
+Davi Araújo,26.0,2,,Junior,3676.65
+Nicole Cavalcante,23.0,2,Intermediário,Senior,9266.48
+Davi Miguel Farias,49.0,26,,Junior,20825.34
+José da Paz,35.0,12,Intermediário,Pleno,12960.63
+Dr. Vinícius Viana,53.0,29,Intermediário,Junior,20991.43
+Maria Sophia Pacheco,36.0,15,Avançado,Pleno,16068.81
+Vitor Hugo Alves,36.0,18,,Junior,13876.27
+Nathan Moraes,,7,,Junior,7032.89
+Dr. Raul Garcia,28.0,6,,Pleno,9476.9
+Kaique Machado,31.0,7,Intermediário,Pleno,10126.84
+Sr. Benjamim Rodrigues,23.0,4,Básico,Senior,9613.96
+Augusto Nascimento,52.0,29,Avançado,Junior,21921.57
+Bruno Cavalcante,38.0,16,Intermediário,Senior,19269.34
+Sr. João Felipe Martins,54.0,34,Intermediário,Junior,23453.14
+Vinícius Pinto,27.0,3,Intermediário,Especialista,12395.16
+Bruno Costa,37.0,16,Intermediário,Junior,12389.51
+Brenda Sales,36.0,13,,Senior,16463.46
+Theo Mendes,52.0,29,Básico,Junior,20195.87
+Ana Moura,52.0,30,Intermediário,Senior,26584.7
+Lara Abreu,,27,Básico,Junior,19337.52
+Raul Guerra,36.0,17,Avançado,Junior,14680.54
+Maya Vieira,45.0,24,Intermediário,Junior,17301.39
+Luiz Gustavo Cassiano,35.0,16,Básico,Pleno,14839.99
+Anna Liz Marques,46.0,24,,Junior,19606.28
+Rodrigo Fernandes,21.0,0,Intermediário,Senior,8248.85
+Lavínia Sousa,,10,Intermediário,Pleno,11340.88
+Felipe Alves,38.0,19,Intermediário,Pleno,17467.78
+Sr. Luiz Henrique da Conceição,40.0,20,Intermediário,Pleno,17798.63
+Sophie da Rosa,26.0,8,Intermediário,Especialista,15743.36
+Dra. Pietra Fogaça,,28,Avançado,Junior,21290.58
+Allana Rezende,44.0,23,Avançado,Senior,23230.26
+Rafael Sousa,,17,Intermediário,Pleno,16523.01
+Maya Cunha,42.0,18,Intermediário,Junior,13910.7
+Maria Júlia Brito,24.0,4,Básico,Junior,6082.01
+Srta. Luna Montenegro,37.0,14,Avançado,Senior,17779.68
+Alexandre Souza,32.0,9,Intermediário,Pleno,11791.03
+Vitor Hugo Leão,44.0,20,Básico,Junior,14698.86
+Daniel Pires,40.0,21,Intermediário,Junior,15857.66
+Valentim Costela,34.0,13,Intermediário,Pleno,14487.75
+Carlos Eduardo Dias,32.0,11,Intermediário,Pleno,12410.73
+Calebe Rodrigues,22.0,0,,Pleno,5487.77
+Lorena Novais,48.0,26,Intermediário,Especialista,26942.42
+Alana da Cunha,23.0,1,Básico,Especialista,11483.12
+Sra. Sofia Oliveira,44.0,22,Intermediário,Junior,16744.27
+Beatriz Cirino,24.0,3,Intermediário,Junior,5350.28
+Enzo Porto,40.0,18,Intermediário,Pleno,16239.73
+Eduarda da Mata,36.0,15,Avançado,Senior,18505.73
+Davi Miguel Garcia,48.0,24,Intermediário,Junior,17485.19
+Manuela Novais,40.0,21,Intermediário,Senior,21397.53
+Pietra Marques,49.0,31,Intermediário,Senior,27547.55
+Bruno Borges,30.0,7,Básico,Junior,7933.57
+Maria Luísa da Paz,47.0,27,Intermediário,Pleno,22736.68
+Clarice Duarte,20.0,0,Intermediário,Pleno,5067.74
+Srta. Bianca Barros,32.0,14,,Especialista,19541.85
+Luiz Miguel Oliveira,45.0,27,Intermediário,Senior,24682.02
+Luiza Costa,36.0,16,Básico,Pleno,15911.45
+Isabel Nogueira,44.0,21,Intermediário,Pleno,18983.39
+Milena Castro,35.0,17,Intermediário,Junior,13604.43
+Cauã Albuquerque,34.0,14,,Pleno,14472.06
+Enzo Gabriel Leão,21.0,0,Intermediário,Junior,3765.46
+Lorena Fogaça,37.0,18,Intermediário,Especialista,21985.47
+Joaquim Dias,48.0,28,Básico,Junior,19550.26
+Pedro Lucas Moreira,30.0,11,Intermediário,Especialista,17526.19
+Nathan Peixoto,28.0,7,Intermediário,Junior,7035.81
+Emanuel Novaes,51.0,32,Intermediário,Junior,23427.86
+Ana Lívia Cirino,26.0,5,Básico,Senior,11142.4
+Sophia Vargas,45.0,24,Avançado,Pleno,21487.2
+Lorenzo da Paz,32.0,12,Básico,Junior,9764.15
+Eloah Oliveira,,12,Intermediário,Junior,10386.1
+Sr. Davi Cardoso,31.0,11,Avançado,Pleno,13336.87
+Ana Sophia Casa Grande,22.0,0,Básico,Pleno,5841.81
+Dr. Caleb Andrade,32.0,12,Intermediário,Junior,11117.81
+Ravy Albuquerque,25.0,4,Intermediário,Senior,11114.87
+Gabriela Nascimento,41.0,18,Intermediário,Senior,19478.22
+Lavínia da Luz,44.0,21,Avançado,Junior,17544.48
+Thiago Nogueira,37.0,18,Intermediário,Senior,20279.78
+Dr. Fernando Cavalcanti,54.0,33,,Senior,28829.48
+Felipe Martins,,31,Básico,Senior,27133.96
+João Felipe Mendonça,54.0,34,Intermediário,Senior,29151.9
+Caroline Cavalcanti,48.0,24,Intermediário,Pleno,20493.5
+Sophie Jesus,30.0,7,Intermediário,Pleno,9771.21
+Heloísa Câmara,40.0,19,Intermediário,Senior,20180.74
+Melissa Nascimento,37.0,17,Intermediário,Junior,13675.22
+Arthur Miguel Souza,24.0,0,Intermediário,Pleno,5475.33
+Henry Gabriel Gomes,23.0,5,Básico,Senior,11347.05
+Maria Sophia Sales,48.0,25,Básico,Junior,18209.23
+Erick Pacheco,39.0,16,Avançado,Pleno,17132.35
+Lívia da Conceição,,0,Avançado,Pleno,7068.58
+Maria Luísa Porto,39.0,17,Intermediário,Junior,13579.85
+Srta. Kamilly Ramos,35.0,12,Intermediário,Junior,10951.81
+Sara Sousa,54.0,34,Básico,Senior,28078.27
+Arthur Costela,27.0,3,Avançado,Junior,6093.43
+Erick da Cruz,,27,Básico,Junior,19121.41
+Mirella Sousa,53.0,33,Intermediário,Junior,22619.11
+Rodrigo Costa,27.0,5,Básico,Junior,5814.87
+Anthony Gabriel Nascimento,32.0,11,Básico,Senior,14434.8
+Sr. Ian Aparecida,42.0,19,Intermediário,Junior,14529.32
+Maya Cavalcante,24.0,1,Intermediário,Junior,4146.58
+Juan da Cunha,53.0,35,Básico,Junior,23959.58
+Eduarda Guerra,36.0,12,Básico,Junior,10269.58
+João Vitor da Conceição,45.0,25,Intermediário,Pleno,20584.37
+Luiza Sampaio,38.0,17,Intermediário,Senior,18018.45
+Luana Gonçalves,32.0,10,Avançado,Junior,10130.21
+Mariane Cunha,45.0,22,,Junior,15861.33
+Oliver Macedo,47.0,25,Básico,Junior,18345.52
+Carlos Eduardo Rezende,41.0,19,Intermediário,Pleno,17898.51
+Gabriela Viana,31.0,13,Intermediário,Pleno,13575.16
+Sr. Antony Peixoto,50.0,27,Intermediário,Pleno,22797.58
+Sra. Raquel Leão,39.0,18,Intermediário,Junior,14511.16
+Antony Peixoto,36.0,17,Básico,Especialista,20756.84
+Alice Moraes,32.0,8,Básico,Senior,13029.88
+Enrico Fernandes,37.0,13,Intermediário,Especialista,18589.5
+Pedro Lucas Pinto,40.0,17,Básico,Junior,13755.34
+Maria Eduarda Novais,28.0,7,Intermediário,Pleno,9366.35
+Camila Cavalcante,,34,Intermediário,Junior,24589.88
+Maria Campos,33.0,15,Intermediário,Junior,12333.52
+Luiz Otávio Mendonça,30.0,6,Básico,Senior,11147.97
+Henry Cunha,40.0,16,,Junior,14548.76
+Joana Melo,54.0,34,Intermediário,Junior,23572.64
+Mirella Ramos,38.0,14,Básico,Pleno,13431.1
+Sra. Bella Correia,23.0,0,,Junior,3458.75
+Maria Cecília Macedo,51.0,33,Intermediário,Pleno,25558.41
+Leonardo Sousa,37.0,19,Avançado,Junior,15808.18
+Srta. Giovanna Silva,46.0,28,Básico,Senior,24447.91
+Benício Jesus,22.0,3,Básico,Junior,4295.87
+Sra. Clara Cassiano,29.0,9,Avançado,Senior,14520.43
+Sr. Anthony Costela,39.0,18,Avançado,Junior,15998.95
+Ágatha Fogaça,44.0,25,Básico,Junior,18489.23
+Thomas Cardoso,52.0,31,Básico,Pleno,23996.46
+Heloísa Gomes,44.0,22,,Junior,16535.58
+Sarah Monteiro,46.0,27,Básico,Senior,24147.62
+Maya Pires,,11,,Junior,11425.67
+Ana Sophia Garcia,48.0,26,,Pleno,20813.79
+Melissa Leão,49.0,29,Intermediário,Junior,21003.1
+Maria Laura Gomes,47.0,28,Intermediário,Junior,19803.3
+Davi Luiz Rodrigues,53.0,29,Básico,Junior,19798.05
+Eduardo Vieira,40.0,16,Avançado,Pleno,16650.39
+Lucas Gabriel Araújo,36.0,18,Intermediário,Junior,14123.76
+Luara Porto,33.0,9,Básico,Pleno,11316.25
+Davi Lucca Nascimento,50.0,28,Básico,Junior,19586.68
+Davi Pacheco,24.0,5,Intermediário,Junior,6590.28
+Isabela Albuquerque,36.0,18,Intermediário,Junior,13914.91
+Ravy Silveira,54.0,36,Intermediário,Junior,25017.36
+Mariana da Costa,43.0,21,Intermediário,Senior,21074.38
+Josué Gonçalves,33.0,11,Básico,Junior,9811.96
+Isadora Porto,,24,Básico,Junior,18140.47
+Anna Liz da Mata,34.0,14,,Junior,11464.41
+Srta. Clarice Ferreira,35.0,15,Básico,Junior,11533.5
+Yan Carvalho,49.0,26,Avançado,Junior,19253.66
+Ana Cecília Silva,25.0,6,Avançado,Pleno,9819.56
+Daniel Sampaio,22.0,3,Básico,Especialista,12357.44
+Isadora Caldeira,38.0,16,Avançado,Senior,18671.26
+Maria Alice Novaes,32.0,12,Intermediário,Especialista,18130.69
+Ana Liz Vieira,37.0,19,Intermediário,Junior,14858.11
+Maria Flor da Costa,53.0,31,Intermediário,Pleno,23518.61
+Arthur Teixeira,,25,Avançado,Junior,19315.99
+Henry Gabriel Castro,40.0,18,Avançado,Junior,14918.98
+Stella da Cruz,,0,Básico,Especialista,10344.76
+Gabriel Dias,45.0,22,Intermediário,Junior,16144.41
+Emanuella Pimenta,32.0,11,Avançado,Pleno,13980.62
+Lívia da Paz,31.0,9,Avançado,Senior,14491.54
+Pedro Borges,40.0,18,Básico,Junior,13856.71
+Maria Vitória Melo,33.0,14,Intermediário,Senior,16698.43
+Ana da Costa,34.0,13,Intermediário,Pleno,13539.57
+Sra. Maysa Freitas,48.0,27,,Junior,19446.42
+Ana Vitória Rodrigues,37.0,15,Avançado,Pleno,16431.65
+Liz Cardoso,41.0,20,Avançado,Junior,16268.44
+Isabelly Caldeira,25.0,4,Intermediário,Senior,11291.37
+Laura Oliveira,30.0,8,,Junior,8008.86
+Ian Costa,28.0,9,Intermediário,Junior,8714.67
+Dr. Alexandre Aparecida,50.0,30,Avançado,Senior,27086.14
+Erick Aragão,21.0,0,Intermediário,Pleno,5951.57
+Laura Castro,30.0,6,Básico,Pleno,9114.72
+Eduarda Vasconcelos,36.0,18,Intermediário,Junior,14770.88
+Gustavo Henrique Peixoto,,2,Básico,Junior,4454.94
+Isadora Moura,,1,Básico,Senior,8197.49
+Sra. Kamilly Costela,52.0,30,Intermediário,Pleno,23862.41
+Isaque Câmara,41.0,23,Avançado,Junior,17961.26
+Nathan Nascimento,28.0,7,Básico,Pleno,10199.85
+Vicente Moraes,21.0,3,Intermediário,Senior,11217.59
+Léo Macedo,,13,Intermediário,Junior,11249.1
+Sarah da Cruz,33.0,11,Intermediário,Junior,10030.88
+Luísa Caldeira,41.0,18,Intermediário,Especialista,22108.77
+Thales Sales,39.0,20,Intermediário,Junior,15406.14
+Alana Moura,33.0,9,Básico,Senior,13457.52
+Thiago Rezende,33.0,11,Intermediário,Junior,10192.58
+Calebe Fernandes,33.0,9,Avançado,Junior,10158.6
+Ísis Camargo,42.0,20,Avançado,Pleno,18655.32
+Dom Monteiro,24.0,3,,Junior,4812.01
+Miguel Pimenta,,31,Avançado,Especialista,30281.72
+Mariana Andrade,22.0,4,Intermediário,Pleno,8326.46
+Dom Mendonça,39.0,16,,Pleno,16139.26
+Luna Silva,39.0,17,Básico,Senior,17894.02
+Asafe Sampaio,46.0,24,Intermediário,Pleno,20098.32
+Vinicius Farias,38.0,17,Intermediário,Pleno,16619.28
+Allana Vargas,,11,Intermediário,Pleno,12299.72
+João Vitor Sales,30.0,7,Intermediário,Junior,7682.1
+Guilherme Rodrigues,47.0,29,Avançado,Pleno,24120.27
+Sara Gonçalves,43.0,25,Avançado,Senior,24964.98
+José Pedro Machado,23.0,3,Avançado,Pleno,8408.62
+Lucas Gabriel da Mata,,27,Avançado,Junior,20119.56
+Murilo Caldeira,,10,Básico,Pleno,11623.23
+Dra. Melina Peixoto,42.0,24,Avançado,Pleno,21387.85
+Francisco Moura,29.0,11,Intermediário,Pleno,11926.94
+Sr. Thales Monteiro,,32,Intermediário,Junior,22290.39
+Mariah da Cunha,49.0,30,,Pleno,25442.36
+Sra. Alícia Sousa,46.0,23,Básico,Junior,16574.42
+Oliver Siqueira,50.0,29,Intermediário,Pleno,23268.54
+Josué da Conceição,41.0,21,Intermediário,Especialista,22809.6
+Davi Lucas da Conceição,26.0,4,Básico,Senior,10574.39
+Evelyn da Rocha,,33,Avançado,Especialista,30787.1
+Lunna Costa,40.0,19,Avançado,Junior,15830.02
+Arthur Miguel Fogaça,37.0,17,Básico,Pleno,15272.04
+Ana Liz Machado,,31,Intermediário,Junior,22110.45
+Davi Miguel Câmara,25.0,6,Intermediário,Pleno,8906.03
+Alice da Rocha,33.0,9,,Junior,9341.17
+Ana Luiza da Conceição,42.0,20,Intermediário,Pleno,18774.13
+Jade Jesus,34.0,10,,Junior,9293.13
+Eduarda Casa Grande,32.0,10,,Junior,9280.73
+Bárbara Almeida,23.0,3,Básico,Junior,5478.29
+Raquel Ferreira,,10,Básico,Junior,9758.92
+Sr. Erick Vargas,43.0,25,,Junior,18318.18
+Dra. Vitória Pastor,45.0,22,Intermediário,Junior,16612.54
+Sr. Ravi Novaes,24.0,4,Básico,Especialista,12794.98
+Raul Alves,47.0,27,Intermediário,Senior,24499.45
+André Sales,47.0,29,Básico,Especialista,28111.61
+Erick Pacheco,24.0,6,Básico,Pleno,9122.78
+Dr. Dante Aragão,31.0,7,Intermediário,Pleno,10596.08
+José Miguel Pinto,33.0,10,Intermediário,Pleno,12169.9
+Lavínia Pires,41.0,17,Básico,Junior,12958.14
+Anthony Câmara,47.0,27,Básico,Junior,19530.29
+Fernando Mendonça,54.0,31,Intermediário,Pleno,24213.73
+Daniela Cavalcanti,41.0,19,Intermediário,Junior,15551.67
+Pedro Lucas Porto,42.0,22,Intermediário,Pleno,19128.82
+Bianca Caldeira,42.0,22,,Junior,16907.95
+Kaique da Mata,26.0,7,Básico,Pleno,10173.68
+Alexandre da Paz,32.0,14,Básico,Junior,11072.05
+Ester Macedo,,3,Intermediário,Pleno,7719.27
+Srta. Maria Clara Ramos,,1,Básico,Pleno,6227.95
+Esther da Mota,43.0,21,Básico,Pleno,18082.53
+Dr. Ravy Camargo,35.0,16,Intermediário,Senior,17384.4
+Anthony Gabriel Correia,28.0,10,Intermediário,Junior,9706.97
+Liam Moraes,,3,,Pleno,7573.0
+Sr. Augusto Cunha,29.0,6,Intermediário,Pleno,8964.42
+Cauã Pires,45.0,24,Básico,Junior,17992.04
+André Abreu,24.0,3,Avançado,Senior,10966.55
+Dr. Benjamin Montenegro,28.0,5,Básico,Junior,6269.78
+Davi Luiz Novais,32.0,11,Intermediário,Especialista,17606.15
+Carolina Marques,40.0,16,Intermediário,Junior,12868.69
+Juliana da Cunha,50.0,31,Intermediário,Junior,22870.48
+Eloá Cavalcante,54.0,35,Básico,Junior,23580.87
+Pedro Miguel Fernandes,38.0,15,Básico,Senior,16905.61
+Dr. Davi Campos,,15,Intermediário,Pleno,15297.67
+Ana Rocha,35.0,11,Básico,Senior,14672.67
+Ryan Cardoso,32.0,8,Avançado,Senior,13996.44
+Fernando Ramos,42.0,19,,Junior,15788.27
+Luiza Vasconcelos,53.0,32,Avançado,Senior,28703.53
+Srta. Laura Pires,40.0,17,Intermediário,Senior,19026.75
+Julia Alves,27.0,4,,Senior,10229.49
+João Albuquerque,46.0,28,Intermediário,Senior,24852.18
+Emanuella Cunha,36.0,16,Intermediário,Especialista,20442.59
+Sabrina Monteiro,54.0,33,Intermediário,Senior,27987.62
+Raul Novaes,34.0,10,Avançado,Pleno,12830.49
+Alice Silva,22.0,0,,Junior,4290.17
+Letícia Borges,32.0,14,Básico,Junior,11940.88
+Rael Fonseca,,14,Intermediário,Junior,11812.21
+Antônio Sá,21.0,3,Intermediário,Senior,9905.47
+Catarina Silva,41.0,21,,Senior,21763.0
+Sr. Thiago Peixoto,23.0,1,Intermediário,Senior,9261.28
+Sra. Vitória Jesus,24.0,3,,Junior,4481.22
+Apollo Barros,41.0,18,,Junior,15359.26
+Luiza Cavalcanti,37.0,13,Avançado,Pleno,14813.56
+Dr. Pedro Henrique Teixeira,,33,Intermediário,Junior,22883.26
+Davi Lucca Azevedo,35.0,16,Básico,Junior,12557.4
+Srta. Aylla Sales,,12,Intermediário,Pleno,13018.48
+Julia Câmara,23.0,3,Avançado,Junior,5620.2
+Maria Laura Porto,48.0,26,Intermediário,Senior,24292.42
+Enzo Gabriel Andrade,25.0,4,,Junior,6474.48
+Amanda Melo,38.0,15,Intermediário,Junior,12184.06
+Thomas Gomes,41.0,21,,Pleno,19311.09
+Vitor Garcia,36.0,13,,Junior,11175.21
+André Camargo,38.0,20,,Especialista,22694.0
+Eloah Marques,20.0,0,Intermediário,Junior,3312.87
+Mariah Moura,45.0,24,Intermediário,Especialista,25334.27
+Luigi Oliveira,23.0,0,Intermediário,Junior,3584.84
+Nathan Sales,36.0,14,Avançado,Pleno,16099.07
+Ravy Oliveira,38.0,19,Básico,Junior,14020.02
+Sr. Bento Farias,34.0,13,Avançado,Senior,17618.8
+Dr. Asafe Nogueira,21.0,0,Avançado,Pleno,7180.3
+Luana Novaes,48.0,29,Intermediário,Pleno,23086.47
+Enzo Gabriel Vasconcelos,51.0,27,Avançado,Junior,21540.39
+Felipe Vieira,51.0,28,,Junior,20795.06
+Ísis da Rosa,29.0,9,Básico,Junior,8551.91
+Sra. Juliana Garcia,51.0,27,Intermediário,Senior,24648.19
+Thomas Brito,,4,Intermediário,Pleno,7845.9
+Maria Helena Teixeira,,32,,Pleno,24458.33
+Théo da Cunha,52.0,34,Básico,Senior,27846.61
+Dr. Vicente Cavalcanti,43.0,25,Intermediário,Junior,19250.23
+Dr. Erick Siqueira,37.0,13,Básico,Junior,11447.63
+Brenda Rodrigues,39.0,17,Intermediário,Junior,13700.28
+Srta. Heloísa Fogaça,28.0,6,Básico,Pleno,9029.82
+Danilo da Mata,45.0,27,Intermediário,Junior,20143.38
+Sra. Valentina Araújo,38.0,20,Básico,Pleno,17667.24
+Mirella Nogueira,45.0,25,,Senior,23834.5
+Eduarda Machado,20.0,2,Básico,Junior,4619.65
+Ayla Pereira,47.0,24,Intermediário,Junior,18018.83
+Maria Júlia Alves,45.0,27,Intermediário,Junior,20348.49
+Benicio Correia,30.0,11,Intermediário,Pleno,12623.91
+Thales Leão,,32,,Junior,22579.81
+Eduarda Sá,28.0,4,Básico,Pleno,7972.61
+Dra. Maria Júlia Monteiro,22.0,0,Intermediário,Senior,8985.99
+Sra. Heloísa Novais,53.0,32,Intermediário,Junior,23103.2
+Vitor Ferreira,,6,Intermediário,Senior,11880.16
+José Miguel Pires,24.0,4,,Senior,10729.28
+Milena Rodrigues,25.0,7,Intermediário,Senior,12973.28
+Gustavo Henrique Pastor,43.0,21,Intermediário,Especialista,23733.3
+Dr. Leonardo Martins,29.0,10,Básico,Senior,14067.94
+Ana Lívia Teixeira,23.0,4,Básico,Junior,5539.02
+Pedro Costela,36.0,17,Intermediário,Junior,13734.68
+Alícia Montenegro,31.0,13,Intermediário,Junior,11466.06
+Agatha Ribeiro,48.0,29,Intermediário,Pleno,23135.17
+Sr. Henrique Câmara,40.0,19,Intermediário,Especialista,22401.84
+Théo Teixeira,,20,Avançado,Junior,16827.96
+Bruno Novaes,43.0,23,Básico,Especialista,25256.31
+Joana Silveira,37.0,16,Básico,Senior,17750.84
+Srta. Ana Clara Câmara,51.0,32,Intermediário,Junior,22668.37
+Bella Souza,52.0,30,Básico,Pleno,23268.35
+Emanuella Brito,43.0,21,Avançado,Junior,17174.41
+Bella Castro,44.0,23,Avançado,Pleno,21224.24
+Pedro Lucas Cassiano,,17,Básico,Pleno,15205.66
+Sra. Ana Laura Gomes,22.0,3,Intermediário,Junior,5369.75
+Daniel Marques,47.0,28,Intermediário,Pleno,22894.13
+Juan Cirino,35.0,11,Intermediário,Senior,14883.96
+Benjamin das Neves,24.0,4,Avançado,Pleno,9241.54
+Esther Monteiro,47.0,27,Intermediário,Junior,19393.0
+Gabriela Moura,30.0,9,Intermediário,Junior,8754.75
+Sr. Miguel da Mota,32.0,8,Avançado,Junior,8497.02
+Ana Luiza Rezende,,28,Intermediário,Junior,19695.09
+Emilly Teixeira,24.0,1,Intermediário,Pleno,6240.25
+Maria Luísa Pinto,53.0,31,Intermediário,Pleno,25373.87
+Joana Martins,,9,Intermediário,Senior,13470.28
+Maria Liz Ramos,29.0,8,Avançado,Especialista,16746.97
+Otto Aragão,22.0,4,Avançado,Junior,6750.97
+Nicole Sampaio,53.0,35,Intermediário,Pleno,26847.68
+Danilo Moraes,24.0,5,Intermediário,Junior,6283.08
+Dra. Maria Cecília Peixoto,46.0,26,Intermediário,Pleno,21854.46
+Ana Sophia Marques,50.0,26,Intermediário,Especialista,25950.59
+Olívia Borges,43.0,25,Intermediário,Pleno,21152.52
+Kaique Farias,49.0,28,Intermediário,Pleno,22924.66
+Maria Helena Rodrigues,31.0,7,,Senior,12074.5
+Ana Lívia Costa,42.0,21,Intermediário,Pleno,18768.06
+Vitor Gabriel Rios,38.0,15,Intermediário,Junior,13231.98
+Lara Sousa,23.0,3,Avançado,Junior,6344.83
+Luiza Brito,32.0,8,,Pleno,11411.14
+Dr. Luiz Henrique Vieira,28.0,10,Intermediário,Junior,9892.93
+João Pedro Rocha,38.0,17,Intermediário,Junior,14193.29
+Lívia Jesus,29.0,5,Avançado,Senior,13289.36
+Vinícius Siqueira,35.0,12,Intermediário,Pleno,13297.46
+Maria Julia Pacheco,52.0,34,Intermediário,Senior,28463.92
+Manuela Pastor,44.0,20,Intermediário,Junior,15467.22
+Dra. Isabel das Neves,32.0,14,Avançado,Junior,13336.33
+Daniela Viana,26.0,3,Básico,Especialista,12171.81
+Ayla Vargas,38.0,20,Básico,Senior,20009.91
+Josué Garcia,23.0,0,,Junior,2792.97
+Sra. Maria Flor Macedo,38.0,17,,Senior,18080.7
+Ana Sophia da Conceição,20.0,0,Básico,Junior,2975.05
+Luiza Novaes,31.0,10,Básico,Junior,8928.93
+Léo Cassiano,51.0,28,Básico,Pleno,22688.84
+Emilly Rios,27.0,4,,Pleno,9921.37
+Srta. Maria Laura Moura,28.0,8,Intermediário,Junior,8742.01
+Isabelly Sales,39.0,21,Avançado,Junior,17974.31
+Francisco Câmara,39.0,17,Básico,Junior,12570.62
+Bárbara Casa Grande,24.0,3,Básico,Junior,4311.57
+Bruna da Mata,29.0,5,Intermediário,Especialista,14311.61
+Pedro Miguel Gonçalves,53.0,30,Intermediário,Especialista,28555.83
+Heitor Barbosa,34.0,11,,Pleno,13757.76
+Maria Helena da Cruz,31.0,9,,Pleno,11331.42
+João Lucas Vargas,43.0,25,Básico,Senior,22543.17
+Caroline Vasconcelos,54.0,34,Intermediário,Junior,23911.57
+Manuela Dias,44.0,22,,Senior,23257.85
+Carolina Sales,21.0,3,Intermediário,Junior,4881.91
+Srta. Elisa das Neves,41.0,17,Básico,Senior,18656.13
+Benjamim Mendes,35.0,13,Básico,Junior,11799.55
+Henry Andrade,29.0,10,Intermediário,Pleno,11980.93
+Thomas Silva,51.0,30,,Junior,21322.2
+Thiago Peixoto,36.0,14,Avançado,Senior,17990.81
+Maria Cecília Rezende,44.0,20,Intermediário,Senior,20370.37
+Apollo Sá,41.0,22,Intermediário,Junior,16431.01
+Sophia Pinto,29.0,5,Básico,Pleno,8589.31
+Maria Fernanda Guerra,54.0,35,Avançado,Pleno,27612.2
+Beatriz Araújo,,17,Básico,Junior,13167.72
+Vinicius Garcia,24.0,0,Avançado,Especialista,12185.1
+Enzo Gabriel Fogaça,23.0,0,,Junior,2500.0
+Sr. Marcelo Aparecida,30.0,10,Básico,Pleno,11609.03
+Ana Júlia Nogueira,54.0,30,Básico,Senior,25754.04
+Isabelly Pimenta,21.0,2,Básico,Pleno,6807.59
+Mathias Cavalcanti,50.0,31,Básico,Junior,21697.59
+Maria Isis Moreira,22.0,3,,Senior,10634.33
+Dra. Laura Sá,,1,,Junior,4518.12
+Srta. Isabel Azevedo,50.0,28,Intermediário,Pleno,22890.67
+Juliana Aparecida,44.0,24,Intermediário,Pleno,20175.38
+Benjamim Santos,27.0,7,Intermediário,Junior,7745.81
+Sr. Marcos Vinicius Martins,48.0,30,Básico,Senior,26721.06
+Ryan Monteiro,,17,,Junior,13659.87
+Gael Lopes,50.0,27,Avançado,Pleno,23318.63
+André Mendonça,32.0,13,Intermediário,Junior,11501.64
+Alícia Viana,46.0,27,Básico,Pleno,22016.46
+Antônio Pastor,29.0,10,Básico,Junior,9129.27
+Ana Carolina Souza,37.0,13,Avançado,Pleno,15313.53
+Thales Camargo,39.0,21,Básico,Pleno,18352.39
+Dr. João Guilherme Freitas,45.0,23,Básico,Junior,16546.6
+Maria Júlia Aragão,35.0,15,Intermediário,Junior,12688.74
+Mariana Pires,,3,Avançado,Junior,5946.81
+Dom Araújo,42.0,18,Básico,Especialista,21498.86
+Luigi Moura,26.0,5,Intermediário,Pleno,8882.28
+Srta. Ágatha Vieira,54.0,31,,Junior,21528.83
+Mirella Almeida,41.0,21,,Senior,20734.88
+Vicente Campos,,18,,Junior,13513.34
+Isaque Silveira,48.0,25,,Pleno,20224.63
+Rafael Castro,50.0,27,Intermediário,Junior,19694.26
+Pedro Teixeira,39.0,20,Básico,Senior,19914.24
+Gabriela Ferreira,31.0,9,Intermediário,Pleno,11827.66
+Noah Garcia,36.0,14,,Senior,17590.63
+Giovanna Pimenta,28.0,5,,Pleno,9616.41
+Srta. Maria Liz Casa Grande,48.0,27,Intermediário,Junior,20049.17
+Henry Barbosa,33.0,13,Intermediário,Pleno,13702.29
+Dr. Lucas da Luz,32.0,11,,Pleno,12773.72
+Yasmin Casa Grande,53.0,32,Intermediário,Especialista,29997.14
+Srta. Hellena da Cunha,,9,Avançado,Junior,9827.93
+João Felipe Rios,22.0,0,Intermediário,Senior,8661.73
+Anthony Gabriel Nogueira,,32,Intermediário,Pleno,24835.08
+Antonella Costela,44.0,25,Intermediário,Junior,18718.31
+Ana Beatriz Aragão,43.0,21,Intermediário,Junior,15231.37
+Mariana Cunha,21.0,1,Intermediário,Pleno,6306.69
+Srta. Giovanna Campos,27.0,8,Básico,Especialista,15032.08
+Arthur Novais,24.0,4,,Junior,5431.51
+Dra. Maria Julia Andrade,52.0,32,Avançado,Junior,24609.58
+Maria Luísa Pereira,51.0,30,Intermediário,Pleno,24052.13
+Ana Sophia Garcia,47.0,29,,Junior,20612.95
+Isis da Conceição,45.0,23,Avançado,Pleno,21907.56
+Vitor Câmara,43.0,24,Intermediário,Pleno,20162.61
+Henrique Lopes,48.0,29,Avançado,Junior,21918.23
+Thales Cavalcanti,42.0,18,Básico,Especialista,21549.36
+Anna Liz Cavalcante,,4,Intermediário,Senior,10782.08
+Valentina Ferreira,38.0,18,Intermediário,Junior,13925.32
+Luiz Gustavo Moura,,28,Intermediário,Pleno,23144.57
+Dra. Juliana Vieira,35.0,15,Intermediário,Especialista,20100.53
+Fernando Novaes,34.0,13,Básico,Especialista,17980.0
+Ana Júlia da Costa,43.0,19,Avançado,Senior,20791.91
+Júlia Dias,33.0,15,,Junior,12315.51
+Ayla Farias,20.0,0,,Junior,4605.23
+Manuela Borges,47.0,25,Intermediário,Pleno,20542.34
+Maysa da Cruz,41.0,17,,Junior,14444.88
+Igor Freitas,21.0,0,Intermediário,Pleno,6015.05
+Srta. Maria Liz Sampaio,40.0,21,Básico,Pleno,17990.6
+Evelyn Gomes,39.0,20,Básico,Senior,19740.88
+Mateus Monteiro,,2,Básico,Pleno,6274.68
+Dr. João Guilherme Costela,49.0,27,Intermediário,Junior,19946.49
+Fernando Teixeira,52.0,33,Intermediário,Senior,28369.39
+Sra. Hadassa Carvalho,44.0,21,,Senior,22059.85
+Rebeca Casa Grande,32.0,11,Intermediário,Senior,14778.09
+Pedro Lucas Viana,,23,Intermediário,Senior,21776.96
+Larissa Vasconcelos,54.0,35,Intermediário,Senior,28768.18
+Maria Vitória Rezende,44.0,22,Avançado,Pleno,20220.15
+Thomas Cirino,32.0,13,Intermediário,Senior,16554.21
+Antonella Pinto,52.0,30,Intermediário,Especialista,29082.01
+Liz Monteiro,29.0,10,Intermediário,Junior,9820.22
+Cauã Rocha,,25,Básico,Pleno,20351.02
+Bernardo da Luz,40.0,21,Intermediário,Junior,16368.14
+Luiz Henrique Sampaio,46.0,25,Intermediário,Junior,18030.15
+Enrico Andrade,,0,Básico,Senior,8293.67
+Sr. Luiz Henrique Sá,33.0,14,,Junior,12524.12
+Lavínia Nunes,36.0,13,Intermediário,Junior,11763.02
+Murilo Ramos,,28,Intermediário,Junior,19080.89
+Maitê Rezende,41.0,21,Básico,Junior,15430.47
+Nathan Nogueira,49.0,25,Básico,Pleno,20070.62
+Ana Sophia Fogaça,21.0,0,Básico,Pleno,5739.54
+Isadora Lopes,45.0,25,Intermediário,Junior,18275.26
+Pedro Lucas Cavalcanti,54.0,36,,Pleno,28791.74
+Alana Casa Grande,33.0,12,,Junior,10666.94
+Hadassa Cirino,42.0,20,Avançado,Junior,17339.9
+Ágatha Sampaio,54.0,32,Intermediário,Junior,21995.15
+Kaique Pacheco,25.0,2,Básico,Senior,9072.17
+Srta. Fernanda Jesus,34.0,10,,Pleno,11899.99
+Allana Nunes,,5,,Junior,5647.12
+Sr. Mathias Sales,53.0,29,Básico,Pleno,22921.42
+Sofia Marques,,27,Intermediário,Pleno,22588.64
+Ana Sophia Porto,27.0,6,Intermediário,Senior,11927.2
+Emanuel Ferreira,53.0,29,,Junior,21051.15
+Srta. Ayla Viana,33.0,11,Básico,Especialista,16892.7
+Levi Moraes,22.0,1,Básico,Junior,4130.11
+Ana Julia Leão,30.0,10,Intermediário,Pleno,11733.09
+Dra. Ana Sophia Nogueira,37.0,19,,Senior,19127.77
+Ana Carolina Campos,38.0,14,Básico,Junior,11379.58
+Ravy da Cunha,40.0,20,Avançado,Junior,16401.25
+Luara da Costa,,0,Avançado,Senior,9655.67
+Manuela Duarte,,28,Intermediário,Especialista,27800.28
+Bryan Silva,53.0,32,Intermediário,Junior,23109.51
+Giovanna Sampaio,38.0,18,,Junior,13638.62
+Isabelly Cunha,36.0,13,Intermediário,Junior,11724.77
+Anthony Gabriel Rezende,,20,Avançado,Junior,16157.79
+Thomas Guerra,41.0,21,Intermediário,Junior,15674.73
+Isaac Melo,47.0,28,Intermediário,Senior,25465.85
+Sra. Sophia Alves,35.0,13,,Especialista,18525.94
+Ana Vitória Almeida,32.0,14,Básico,Pleno,14554.32
+João Pedro Nascimento,22.0,2,Intermediário,Junior,4984.56
+João Gabriel Sampaio,20.0,0,Intermediário,Junior,4745.16
+José Pedro Barbosa,50.0,27,Avançado,Pleno,23130.73
+Sr. Dom Duarte,48.0,28,Básico,Junior,19669.33
+Fernanda Cardoso,45.0,27,Intermediário,Especialista,27010.33
+Valentim Albuquerque,32.0,8,Intermediário,Pleno,10875.68
+Ayla Dias,34.0,16,Avançado,Pleno,16803.39
+João Guilherme Sales,32.0,8,Intermediário,Senior,13224.52
+Emilly Marques,24.0,2,Intermediário,Junior,4597.12
+Brenda Cavalcanti,41.0,18,,Senior,18654.63
+Dom Caldeira,31.0,8,Intermediário,Junior,8748.74
+Bryan Montenegro,48.0,29,Avançado,Junior,21825.33
+Sr. Liam Lima,48.0,30,Intermediário,Junior,21271.45
+Sr. Luiz Gustavo Câmara,31.0,13,Intermediário,Senior,16083.01
+Amanda Guerra,54.0,35,Básico,Pleno,26191.03
+Luiz Otávio Silva,29.0,11,Intermediário,Senior,15455.82
+Nina Cunha,28.0,9,Básico,Pleno,11282.52
+Mariah Campos,50.0,30,Intermediário,Senior,27429.87
+Eloá Casa Grande,42.0,19,Intermediário,Junior,14528.8
+Cecilia Freitas,49.0,31,Avançado,Pleno,25904.59
+Vinicius Leão,46.0,26,Básico,Especialista,25743.63
+Gabriela Cunha,53.0,32,,Junior,22987.7
+Apollo Machado,38.0,18,Intermediário,Pleno,17058.02
+Leandro Martins,31.0,9,Básico,Pleno,10895.03
+Dr. Carlos Eduardo Melo,,19,Básico,Junior,14139.87
+Srta. Olivia Sales,30.0,12,Básico,Senior,15444.15
+Samuel Almeida,42.0,22,Intermediário,Junior,16908.2
+Arthur Miguel Farias,32.0,8,Intermediário,Especialista,15970.44
+Heitor da Mota,30.0,8,Intermediário,Junior,8713.55
+Marina Santos,43.0,20,Básico,Junior,14837.02
+Isadora Pastor,48.0,28,Intermediário,Pleno,23007.24
+Murilo das Neves,26.0,8,,Pleno,10088.32
+Vicente Sá,47.0,27,Intermediário,Pleno,22163.22
+Raquel Nunes,46.0,28,Básico,Senior,24806.41
+Hellena Barbosa,41.0,19,Básico,Pleno,16734.15
+Otto Brito,,25,Intermediário,Junior,18101.93
+Nina Nogueira,40.0,17,Intermediário,Especialista,20885.01
+Isabela Alves,52.0,33,Intermediário,Junior,22742.26
+Dr. Heitor Rezende,46.0,24,Básico,Junior,17308.79
+Arthur Gabriel Leão,49.0,29,Básico,Junior,20975.53
+Josué Carvalho,36.0,18,Intermediário,Especialista,21841.42
+Dra. Melina Montenegro,25.0,4,Avançado,Junior,6308.06
+Lucas Sales,25.0,7,Básico,Senior,11994.44
+Ana Cecília Rezende,25.0,2,Intermediário,Senior,9220.42
+Daniel Machado,30.0,9,Intermediário,Pleno,10977.59
+Olívia Silva,,25,Avançado,Pleno,21897.22
+Dra. Giovanna Pacheco,34.0,14,Intermediário,Pleno,14397.84
+Maria Liz Barbosa,26.0,2,Avançado,Junior,5342.55
+Sra. Maria Sophia Siqueira,53.0,33,Básico,Junior,22635.01
+Ana Júlia Barros,21.0,0,Intermediário,Senior,8204.52
+Otávio Cavalcanti,41.0,20,,Junior,15436.84
+Isabella Mendes,50.0,26,Avançado,Pleno,22380.84
+Camila Gonçalves,35.0,12,,Junior,10536.08
+Agatha Rocha,47.0,25,Intermediário,Junior,18813.34
+Maria Júlia Alves,49.0,30,Intermediário,Pleno,24448.34
+Henrique da Mata,26.0,5,Básico,Pleno,8290.29
+Davi da Cunha,39.0,17,Básico,Junior,13190.45
+Vinícius Barros,28.0,5,Básico,Pleno,7647.91
+Evelyn Monteiro,,0,Básico,Senior,8762.92
+João Gabriel Fogaça,52.0,33,Avançado,Pleno,26225.56
+Pedro Miguel Pinto,43.0,22,Intermediário,Senior,21250.97
+Maria Luísa Novais,54.0,36,Avançado,Senior,31026.96
+Benjamin Machado,,14,,Junior,11173.78
+Pedro Lucas Novaes,44.0,24,Avançado,Pleno,21614.79
